@@ -4,8 +4,8 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 2.0.16">
-<title>MemPanG23</title>
+<meta name="generator" content="Asciidoctor 2.0.18">
+<title>MemPanG24</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
 /*! Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
@@ -84,10 +84,10 @@ code{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;
 ul,ol,dl{line-height:1.6;margin-bottom:1.25em;list-style-position:outside;font-family:inherit}
 ul,ol{margin-left:1.5em}
 ul li ul,ul li ol{margin-left:1.25em;margin-bottom:0}
-ul.square li ul,ul.circle li ul,ul.disc li ul{list-style:inherit}
-ul.square{list-style-type:square}
 ul.circle{list-style-type:circle}
 ul.disc{list-style-type:disc}
+ul.square{list-style-type:square}
+ul.circle ul:not([class]),ul.disc ul:not([class]),ul.square ul:not([class]){list-style:inherit}
 ol li ul,ol li ol{margin-left:1.25em;margin-bottom:0}
 dl dt{margin-bottom:.3125em;font-weight:bold}
 dl dd{margin-bottom:1.25em}
@@ -193,7 +193,8 @@ body.toc2.toc-right{padding-left:0;padding-right:20em}}
 #content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
 details,.audioblock,.imageblock,.literalblock,.listingblock,.stemblock,.videoblock{margin-bottom:1.25em}
 details{margin-left:1.25rem}
-details>summary{cursor:pointer;display:block;position:relative;line-height:1.6;margin-bottom:.625rem;-webkit-tap-highlight-color:transparent}
+details>summary{cursor:pointer;display:block;position:relative;line-height:1.6;margin-bottom:.625rem;outline:none;-webkit-tap-highlight-color:transparent}
+details>summary::-webkit-details-marker{display:none}
 details>summary::before{content:"";border:solid transparent;border-left:solid;border-width:.3em 0 .3em .5em;position:absolute;top:.5em;left:-1.25rem;transform:translateX(15%)}
 details[open]>summary::before{border:solid transparent;border-top:solid;border-width:.5em .3em 0;transform:translateY(15%)}
 details>summary::after{content:"";width:1.25rem;height:1em;position:absolute;top:.3em;left:-1.25rem}
@@ -235,9 +236,8 @@ pre.prettyprint li:not(:first-child) code[data-lang]::before{display:none}
 table.linenotable{border-collapse:separate;border:0;margin-bottom:0;background:none}
 table.linenotable td[class]{color:inherit;vertical-align:top;padding:0;line-height:inherit;white-space:normal}
 table.linenotable td.code{padding-left:.75em}
-table.linenotable td.linenos{border-right:1px solid;opacity:.35;padding-right:.5em}
-pre.pygments .lineno{border-right:1px solid;opacity:.35;display:inline-block;margin-right:.75em}
-pre.pygments .lineno::before{content:"";margin-right:-.125em}
+table.linenotable td.linenos,pre.pygments .linenos{border-right:1px solid;opacity:.35;padding-right:.5em;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+pre.pygments span.linenos{display:inline-block;margin-right:.75em}
 .quoteblock{margin:0 1em 1.25em 1.5em;display:table}
 .quoteblock:not(.excerpt)>.title{margin-left:-1.5em;margin-bottom:.75em}
 .quoteblock blockquote,.quoteblock p{color:rgba(0,0,0,.85);font-size:1.15rem;line-height:1.75;word-spacing:.1em;letter-spacing:0;font-style:italic;text-align:justify}
@@ -274,7 +274,7 @@ table.frame-none>colgroup+*>:first-child>*,table.frame-sides>colgroup+*>:first-c
 table.frame-none>:last-child>:last-child>*,table.frame-sides>:last-child>:last-child>*{border-bottom-width:0}
 table.frame-none>*>tr>:first-child,table.frame-ends>*>tr>:first-child{border-left-width:0}
 table.frame-none>*>tr>:last-child,table.frame-ends>*>tr>:last-child{border-right-width:0}
-table.stripes-all tr,table.stripes-odd tr:nth-of-type(odd),table.stripes-even tr:nth-of-type(even),table.stripes-hover tr:hover{background:#f8f8f7}
+table.stripes-all>*>tr,table.stripes-odd>*>tr:nth-of-type(odd),table.stripes-even>*>tr:nth-of-type(even),table.stripes-hover>*>tr:hover{background:#f8f8f7}
 th.halign-left,td.halign-left{text-align:left}
 th.halign-right,td.halign-right{text-align:right}
 th.halign-center,td.halign-center{text-align:center}
@@ -290,10 +290,11 @@ ol{margin-left:1.75em}
 ul li ol{margin-left:1.5em}
 dl dd{margin-left:1.125em}
 dl dd:last-child,dl dd:last-child>:last-child{margin-bottom:0}
-ol>li p,ul>li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
+li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
 ul.checklist,ul.none,ol.none,ul.no-bullet,ol.no-bullet,ol.unnumbered,ul.unstyled,ol.unstyled{list-style-type:none}
 ul.no-bullet,ol.no-bullet,ol.unnumbered{margin-left:.625em}
 ul.unstyled,ol.unstyled{margin-left:0}
+li>p:empty:only-child::before{content:"";display:inline-block}
 ul.checklist>li>p:first-child{margin-left:-1em}
 ul.checklist>li>p:first-child>.fa-square-o:first-child,ul.checklist>li>p:first-child>.fa-check-square-o:first-child{width:1.25em;font-size:.8em;position:relative;bottom:.125em}
 ul.checklist>li>p:first-child>input[type=checkbox]:first-child{margin-right:.25em}
@@ -336,8 +337,6 @@ sup.footnote a:active,sup.footnoteref a:active{text-decoration:underline}
 #footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
 #footnotes .footnote:last-of-type{margin-bottom:0}
 #content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
-.gist .file-data>table{border:0;background:#fff;width:100%;margin-bottom:0}
-.gist .file-data>table td.line-data{width:99%}
 div.unbreakable{page-break-inside:avoid}
 .big{font-size:larger}
 .small{font-size:smaller}
@@ -439,28 +438,21 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </head>
 <body class="article toc2 toc-left">
 <div id="header">
-<h1><strong>MemPanG23</strong></h1>
+<h1><strong>MemPanG24</strong></h1>
 <div id="toc" class="toc2">
 <div id="toctitle">Page Content</div>
 <ul class="sectlevel2">
 <li><a href="#_important_dates"><strong>Important Dates</strong></a></li>
 <li><a href="#_course_venue"><strong>Course Venue</strong></a></li>
 <li><a href="#_about_the_practical_course"><strong>About the Practical Course</strong></a></li>
-<li><a href="#_about_the_virtual_conference"><strong>About the Virtual Conference</strong></a></li>
 <li><a href="#_people"><strong>People</strong></a>
 <ul class="sectlevel2">
 <li><a href="#_practical_course_instructors"><strong>Practical Course Instructors</strong></a></li>
 <li><a href="#_practical_course_helpers"><strong>Practical Course Helpers</strong></a></li>
-<li><a href="#_virtual_conference_invited_speakers"><strong>Virtual Conference Invited speakers</strong></a></li>
 <li><a href="#_organizers"><strong>Organizers</strong></a></li>
 </ul>
 </li>
-<li><a href="#_program"><strong>Program</strong></a>
-<ul class="sectlevel2">
-<li><a href="#_practical_course_central_time_zone"><strong>Practical Course (Central Time Zone)</strong></a></li>
-<li><a href="#_virtual_conference_central_time_zone"><strong>Virtual Conference (Central Time Zone)</strong></a></li>
-</ul>
-</li>
+<li><a href="#_program"><strong>Program</strong></a></li>
 <li><a href="#_registration_and_practical_information"><strong>Registration and Practical Information</strong></a>
 <ul class="sectlevel2">
 <li><a href="#_cost"><strong>Cost</strong></a></li>
@@ -494,16 +486,16 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="ulist">
 <ul>
 <li>
-<p>Practical Course Registration Deadline: <strong>15th April 2023</strong></p>
+<p>Practical Course Registration Deadline: <strong>XXth XX 2024</strong></p>
 </li>
 <li>
-<p>Selected Participant will be notified by: <strong>20th April 2023</strong></p>
+<p>Selected Participant will be notified by: <strong>XXth XX 2024</strong></p>
 </li>
 <li>
-<p>Payment Deadline: <strong>29th May 2023</strong></p>
+<p>Payment Deadline: <strong>XXth XX 2024</strong></p>
 </li>
 <li>
-<p>Virtual Conference Registration Deadline: <strong>29th May 2023</strong></p>
+<p>Virtual Conference Registration Deadline: <strong>XXth XX 2024</strong></p>
 </li>
 </ul>
 </div>
@@ -512,9 +504,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <h3 id="_course_venue"><strong>Course Venue</strong></h3>
 <div class="paragraph">
 <p>University of Tennessee Health Science Center<br>
-Mooney Building,<br>
-Library, Room 201,<br>
-875 Monroe Ave.,<br>
+XXXX,<br>
 Memphis, TN 38163<br>
 United States<br>
 &#8594; <a href="https://goo.gl/maps/fCZbYYeGyUko353B8">See the venue on the map</a></p>
@@ -561,7 +551,7 @@ United States<br>
 <h2 id="_about_the_practical_course"><strong>About the Practical Course</strong></h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p><strong>Tuesday, May 30, 2023 - Thursday, June 1, 2023</strong><br>
+<p><strong>Tuesday, XX XX, 2024 - Thursday, XX XX, 2024</strong><br>
 The use of a single reference genome in bioinformatics can lead to reference bias and miss important information about genome variability and relationships. New assembly methods have made it easier to generate high-quality complete genome assemblies, and using a pangenome graph that expresses many genomes and their mutual alignment can help address these issues. This course will focus on building such graphs from whole genome assemblies and using them in various downstream applications in comparative genomics, evolution, variation analysis, sequence alignment, and phenotype association.</p>
 </div>
 <div class="paragraph">
@@ -570,173 +560,18 @@ The use of a single reference genome in bioinformatics can lead to reference bia
 </div>
 </div>
 <div class="sect1">
-<h2 id="_about_the_virtual_conference"><strong>About the Virtual Conference</strong></h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p><strong>Friday, June 2, 2023</strong><br>
-We will gather for a hybrid in-person and virtual conference on the last day of the week.
-This will bring together course participants and virtual and in-person speakers who are actively working on diverse aspects of pangenome research.
-The virtual meeting will be open to the public.
-Speakers will cover topics at the intersection of pangenome methods and biology, including a focus on basic methods, data structures, genome assembly, data visualization, and public collaborative pangenome projects.
-We expect to draw speakers from a diverse set of species contexts.</p>
-</div>
-</div>
-</div>
-<div class="sect1">
 <h2 id="_people"><strong>People</strong></h2>
 <div class="sectionbody">
 <div class="sect2">
 <h3 id="_practical_course_instructors"><strong>Practical Course Instructors</strong></h3>
-<div class="sect3">
-<h4 id="_erik_garrison_assistant_professor">Erik Garrison - Assistant Professor</h4>
-<div class="paragraph">
-<div class="title"><span class="purple">University of Tennessee Health Science Center, Memphis, TN, US</span></div>
-<p><span class="image right"><img src="images/erik.jpeg" alt="erik" width="200"></span> Genomicist with a quantitative social science background. I build methods that let us understand the precise relationships between thousands of genomes. In these, the genome is encoded in a graph that may represent a population sample of individuals from the same species, a metagenome, the diploid genome of a single individual, or any other useful collection of sequences.</p>
-</div>
-<div class="paragraph">
-<p><span class="image"><img src="images/Octicons-mark-github.svg" alt="git" width="30"></span> <a href="https://github.com/ekg">GitHub</a></p>
-</div>
-<hr>
-</div>
-<div class="sect3">
-<h4 id="_andrea_guarracino_postdoctoral_scholar">Andrea Guarracino - Postdoctoral Scholar</h4>
-<div class="paragraph">
-<div class="title"><span class="purple">University of Tennessee Health Science Center, Memphis, TN, US</span></div>
-<p><span class="image right"><img src="images/andrea.jpeg" alt="erik" width="200"></span>Computer (bio)scientist dedicated to developing and applying new methods to analyze ever-larger collections of sequences (also called "pangenomes") in the tree of life.</p>
-</div>
-<div class="paragraph">
-<p><span class="image"><img src="images/Octicons-mark-github.svg" alt="git" width="30"></span> <a href="https://github.com/andreaguarracino">GitHub</a></p>
-</div>
-<hr>
-</div>
-<div class="sect3">
-<h4 id="_simon_heumos_phd_student">Simon Heumos - PhD student</h4>
-<div class="paragraph">
-<div class="title"><span class="purple">Quantitative Biology Center (QBiC), University of Tübingen, Tübingen, DE | Biomedical Data Science, Department of Computer Science, University of Tübingen, Tübingen, DE</span></div>
-<p><span class="image right"><img src="images/simon.png" alt="simon" width="200"></span></p>
-</div>
-<div class="paragraph">
-<p>Bioinformatician by training. I am exploring methods to calculate and visualize pangenome graph layouts. These are key steps in pangenome graph construction and analysis pipelines. Cluster-scalable pangenomics is the next step.</p>
-</div>
-<div class="paragraph">
-<p><span class="image"><img src="images/Octicons-mark-github.svg" alt="git" width="30"></span> <a href="https://github.com/subwaystation">GitHub</a></p>
-</div>
-<hr>
-</div>
-<div class="sect3">
-<h4 id="_arang_rhie_staff_scientist">Arang Rhie - Staff Scientist</h4>
-<div class="paragraph">
-<div class="title"><span class="purple">Genome Informatics Section, Computational and Statistical Genomics Branch, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA</span></div>
-<p><span class="image right"><img src="images/arang.jpeg" alt="arang" width="200"></span></p>
-</div>
-<div class="paragraph">
-<p>I am an active member of the Vertebrate Genomes Project (VGP), Earth Biogenome Project (EBP), Human Pangenome Reference Consortium (HPRC) and the Telomere-to-Telomere consortium (T2T).</p>
-</div>
-<div class="paragraph">
-<p><span class="image"><img src="images/Octicons-mark-github.svg" alt="git" width="30"></span> <a href="https://github.com/arangrhie">GitHub</a></p>
-</div>
-<hr>
-</div>
-<div class="sect3">
-<h4 id="_jordan_eizenga_postdoctoral_researcher">Jordan Eizenga - Postdoctoral Researcher</h4>
-<div class="paragraph">
-<div class="title"><span class="purple">UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA</span></div>
-<p><span class="image right"><img src="images/jordan.webp" alt="jordan" width="200"></span></p>
-</div>
-<div class="paragraph">
-<p>My research focuses on a variety of topics in and around computational pangenomics. I am part of VG team.</p>
-</div>
-<div class="paragraph">
-<p><span class="image"><img src="images/Octicons-mark-github.svg" alt="git" width="30"></span> <a href="https://github.com/jeizenga">GitHub</a></p>
-</div>
-<hr>
-</div>
+
 </div>
 <div class="sect2">
 <h3 id="_practical_course_helpers"><strong>Practical Course Helpers</strong></h3>
-<div class="sect3">
-<h4 id="_flavia_villani_phd_student">Flavia Villani - PhD student</h4>
-<div class="paragraph">
-<div class="title"><span class="purple">University of Tennessee Health Science Center, Memphis, TN, US</span></div>
-<p><span class="image right"><img src="images/Flavia.JPG" alt="flavia" width="200"></span> I have a master degree in Medical Biotechnology from the University of Naples Federico II. Currently, I am a PhD student at the University of Tennessee Health Science Center. I am building the pangenome of model organisms (inbred mice and rats) using a combination of second and third generation sequence data.</p>
-</div>
-<div class="paragraph">
-<p><span class="image"><img src="images/Octicons-mark-github.svg" alt="git" width="30"></span> <a href="https://github.com/Flavia95">GitHub</a></p>
-</div>
-<hr>
-</div>
-<div class="sect3">
-<h4 id="_christian_fischer_it_analyst_iii">Christian Fischer - IT Analyst III</h4>
-<div class="paragraph">
-<div class="title"><span class="purple">University of Tennessee Health Science Center, Memphis, TN, US</span></div>
-<p><span class="image right"><img src="images/christian.jpeg" alt="christian" width="200"></span>Computer scientist also trained in interaction design, with a love for mathematics. I work on tooling for variation graphs using the Rust programming language, with a special interest in visualization, which is currently channeled into my pangenome visualization tool Waragraph.</p>
-</div>
-<div class="paragraph">
-<p><span class="image"><img src="images/Octicons-mark-github.svg" alt="git" width="30"></span> <a href="https://github.com/chfi">GitHub</a></p>
-</div>
-<div class="paragraph">
-<p><br></p>
-</div>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_virtual_conference_invited_speakers"><strong>Virtual Conference Invited speakers</strong></h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://scholar.google.com/citations?user=jfexpLUAAAAJ&amp;hl=en">Zhigui Bao</a></p>
-</li>
-<li>
-<p><a href="https://scholar.google.com/citations?hl=en&amp;user=XzUOb7IAAAAJ">Arang Rhie</a></p>
-</li>
-<li>
-<p><a href="https://scholar.google.com/citations?user=t0Sk55AAAAAJ&amp;hl=en&amp;oi=ao">Scott Edwards</a></p>
-</li>
-<li>
-<p><a href="https://scholar.google.com/citations?hl=en&amp;user=wpPBcf4AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Christina Boucher</a></p>
-</li>
-<li>
-<p><a href="https://scholar.google.com/citations?user=z2edTLkAAAAJ&amp;hl=en">Joep de Ligt</a></p>
-</li>
-<li>
-<p><a href="https://scholar.google.com/citations?user=yp4X1F8AAAAJ&amp;hl=en&amp;oi=ao">Peter Sudmant</a></p>
-</li>
-</ul>
-</div>
+
 </div>
 <div class="sect2">
 <h3 id="_organizers"><strong>Organizers</strong></h3>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://andreaguarracino.github.io/">Andrea Guarracino</a>, University of Tennessee Health Science Center, Memphis, TN, US</p>
-</li>
-<li>
-<p><a href="http://hypervolu.me/~erik/erik_garrison.html">Erik Garrison</a>, University of Tennessee Health Science Center, Memphis, TN, US</p>
-</li>
-<li>
-<p><a href="https://github.com/Flavia95">Flavia Villani</a>, University of Tennessee Health Science Center, Memphis, TN, US</p>
-</li>
-<li>
-<p><a href="https://scholar.google.com/citations?user=rWNHPpAAAAAJ&amp;hl=en">Jordan M Eizenga</a>, University of California Genomics Institute, Santa Cruz, CA, US</p>
-</li>
-<li>
-<p><a href="https://thebird.nl/">Pjotr Prins</a>, University of Tennessee Health Science Center, Memphis, TN, US</p>
-</li>
-<li>
-<p><a href="https://www.uthsc.edu/faculty/profile/?netid=rdavis88">Robert Davis</a>, University of Tennessee Health Science Center, Memphis, TN, US</p>
-</li>
-<li>
-<p><a href="https://www.uthsc.edu/faculty/profile/?netid=rwilli10">Robert Williams</a>, University of Tennessee Health Science Center, Memphis, TN, US</p>
-</li>
-<li>
-<p><a href="https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/">Simon Heumos</a>, University of Tuebingen Quantitative Biology Center, Tuebingen, DE</p>
-</li>
-<li>
-<p><a href="https://www.uthsc.edu/faculty/profile/?netid=vcolonna">Vincenza Colonna</a>, University of Tennessee Health Science Center, Memphis, TN, US</p>
-</li>
-</ul>
-</div>
 <div class="paragraph">
 <p><span class="image"><img src="images/UTHSC.png" alt="uthsc" width="300"></span></p>
 </div>
@@ -752,282 +587,12 @@ We expect to draw speakers from a diverse set of species contexts.</p>
 <div class="sect1">
 <h2 id="_program"><strong>Program</strong></h2>
 <div class="sectionbody">
-<div class="sect2">
-<h3 id="_practical_course_central_time_zone"><strong>Practical Course (Central Time Zone)</strong></h3>
-<div class="paragraph">
-<p><strong>Zoom link</strong>: <a href="https://tennesseehipaa.zoom.us/j/96698730457?pwd=TXNEbzRaVWRkNVhJY3dBalZGdGVzQT09" class="bare">https://tennesseehipaa.zoom.us/j/96698730457?pwd=TXNEbzRaVWRkNVhJY3dBalZGdGVzQT09</a></p>
-</div>
-<div class="paragraph">
-<p><strong>Place</strong>: <a href="https://goo.gl/maps/tLySYa8zdLsUhE2C6">875 Monroe Ave, Mooney Building, Nash Atrium</a></p>
-</div>
-<table class="tableblock frame-all grid-all stretch">
-<colgroup>
-<col style="width: 22.2222%;">
-<col style="width: 11.1111%;">
-<col style="width: 22.2222%;">
-<col style="width: 44.4445%;">
-</colgroup>
-<thead>
-<tr>
-<th class="tableblock halign-left valign-top">Day</th>
-<th class="tableblock halign-left valign-top">Time</th>
-<th class="tableblock halign-left valign-top">Speaker(s)</th>
-<th class="tableblock halign-left valign-top">Topic</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Tuesday, May 30, 2023</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">14:30-16:00</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="http://hypervolu.me/~erik/erik_garrison.html">Erik Garrison</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Presentation: <a href="https://docs.google.com/presentation/d/1tkWQ6I-oD73MUPGzw3pc1waJ1w2_sx528K188w1srTM/edit?usp=sharing">Introduction to pangenomics</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">16:00-16:30</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Everyone</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Coffee break</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">16:30-17:15</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Everyone</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Practical: <a href="https://hackmd.io/@AndreaGuarracino/HkrROK_V3">HLA &amp; LPA graphs, PGGB</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">17:15-17:30</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Everyone</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Q&amp;A, Day 1 Survey</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Wednesday, May 31, 2023</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">09:30-10:00</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://andreaguarracino.github.io/">Andrea Guarracino</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Presentation: <a href="https://docs.google.com/presentation/d/1IXs7HDdpCZBY-MapoGaZe0P-iVwgZfgpApC0vQ5icJ0/edit?usp=sharing">Understanding pangenomes</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">10:00-10:30</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Everyone</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Practical: <a href="https://hackmd.io/@AndreaGuarracino/SyhbiKuE2">Human pangenome graph building</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">10:30-11:00</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Everyone</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Coffee break</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">11:00-12:30</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Everyone</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Practical: <a href="https://hackmd.io/@AndreaGuarracino/SyhbiKuE2">ODGI and community detection</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">12:30-14:30</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Everyone</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Lunch</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">14:30-15:00</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/">Simon Heumos</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Presentation: <a href="https://docs.google.com/presentation/d/1QRGhBakOGabrV-Azyw9lhw3lr0kYvgep-kkWAyeV4Ns/edit#slide=id.g24a51804cbb_0_849">pangenome openness, nf-co.re/pangenome</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">15:00-16:00</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Everyone</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Practical: <a href="https://hackmd.io/@subwaystation/Bkx_42iNn">pangenome openness, nf-co.re/pangenome</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">16:00-16:30</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Everyone</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Coffee break</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">16:30-17:15</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Everyone</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Practical: <a href="https://hackmd.io/@subwaystation/Bkx_42iNn">pangenome openness, nf-co.re/pangenome</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">17:15-17:30</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Everyone</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Q&amp;A, Day 2 Survey</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Thursday, June 1, 2023</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">09:30-10:00</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://scholar.google.com/citations?user=rWNHPpAAAAAJ&amp;hl=en">Jordan M Eizenga</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Presentation: <a href="https://docs.google.com/presentation/d/1IkcVWmjkKhAThE_nWBPYntscthSty3JpnMOPmTf5Zo8/edit?usp=sharing">Read mapping with vg giraffe</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">10:00-10:30</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Everyone</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Practical: <a href="https://github.com/pangenome/MemPanG23/blob/main/lessons/Day_3a_vg_mapping_and_calling.md">alignment and variant calling</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">10:30-11:00</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Everyone</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Coffee break</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">11:00-12:30</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Everyone</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Practical: <a href="https://github.com/pangenome/MemPanG23/blob/main/lessons/Day_3a_vg_mapping_and_calling.md">alignment and variant calling</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">12:30-14:30</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Everyone</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Lunch</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">14:30-15:00</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://genomeinformatics.github.io/people/rhie/">Arang Rhie</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Presentation: <a href="https://docs.google.com/presentation/d/1AUKy5C3Q4whWBbdKNAKmgmmeXjeqeVFkXMPo7MSYryQ/edit?usp=sharing">State of the art in genome assembly</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">15:00-16:00</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Everyone</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Practical: <a href="https://github.com/arangrhie/MemPanG23/tree/main">T2T assembly problems</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">16:00-16:30</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Everyone</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Coffee break</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">16:30-17:15</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Everyone</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Practical: <a href="https://github.com/arangrhie/MemPanG23/tree/main">T2T assembly problems</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">17:15-17:30</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Everyone</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Q&amp;A, Day 3 Survey</p></td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="sect2">
-<h3 id="_virtual_conference_central_time_zone"><strong>Virtual Conference (Central Time Zone)</strong></h3>
-<div class="paragraph">
-<p><strong>Time:</strong> Friday, June 2, 2023<br>
-<strong>Place:</strong> <a href="https://goo.gl/maps/tLySYa8zdLsUhE2C6">875 Monroe Ave, Mooney Building, Mooney Library</a><br>
-<strong>Zoom link</strong>: <a href="https://tennesseehipaa.zoom.us/j/92881122014" class="bare">https://tennesseehipaa.zoom.us/j/92881122014</a><br>
-<strong>Recording</strong>: <a href="https://youtu.be/TaoRZYOOC1Y" class="bare">https://youtu.be/TaoRZYOOC1Y</a></p>
-</div>
-<table class="tableblock frame-all grid-all stretch">
-<colgroup>
-<col style="width: 18.1818%;">
-<col style="width: 18.1818%;">
-<col style="width: 45.4545%;">
-<col style="width: 18.1819%;">
-</colgroup>
-<thead>
-<tr>
-<th class="tableblock halign-left valign-top">Chair</th>
-<th class="tableblock halign-left valign-top">Time</th>
-<th class="tableblock halign-left valign-top">Talk</th>
-<th class="tableblock halign-left valign-top">Speaker</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">09:20 - 09:30</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Conference Opening</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://scholar.google.com/citations?user=OYJMYwIAAAAJ&amp;hl=en">Rob Williams</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://andreaguarracino.github.io/">Andrea Guarracino</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">09:30 - 10:00</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Hidden complex genome rearrangements in the plant pangenome graph</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://scholar.google.com/citations?user=jfexpLUAAAAJ&amp;hl=en">Zhigui Bao</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">10:00 - 10:30</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://github.com/pangenome/MemPanG23/blob/main/conference/2023_0602_MemPanG23_RhieA.pdf">Beyond one T2T human genome: What&#8217;s next?</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://scholar.google.com/citations?hl=en&amp;user=XzUOb7IAAAAJ">Arang Rhie</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">10:30 - 11:00</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Coffee break</p></td>
-<td class="tableblock halign-left valign-top"></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/">Simon Heumos</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">11:00 - 11:30</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Unexpected complexity and abundant structural variation in the pangenomes of birds</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://scholar.google.com/citations?user=t0Sk55AAAAAJ&amp;hl=en&amp;oi=ao">Scott Edwards</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">11:30 - 12:00</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Building a Pangenome Alignment Index via Recursive Prefix-Free Parsing </p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://scholar.google.com/citations?hl=en&amp;user=wpPBcf4AAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Christina Boucher</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">12:00 - 14:00</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Lunch</p></td>
-<td class="tableblock halign-left valign-top"></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://github.com/Flavia95">Flavia Villani</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">14:00 - 14:30</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://drive.google.com/file/d/1faIl34X3flI46qzPkLEaquEFSajvXYmq/view">Pangenome graphs in pathogen genomics for public health</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://scholar.google.com/citations?user=z2edTLkAAAAJ&amp;hl=en">Joep de Ligt</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">14:30 - 15:00</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Recent human evolution of complex genome architectures</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://scholar.google.com/citations?user=yp4X1F8AAAAJ&amp;hl=en&amp;oi=ao">Peter Sudmant</a></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">15:00 - 15:10</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://docs.google.com/presentation/d/1nMvHckupefZ2iI4P161bbDxAyfC-x2NPJ3upwE5wRMI/edit?usp=sharing">Conference Closing</a></p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://www.uthsc.edu/faculty/profile/?netid=vcolonna">Vincenza Colonna</a></p></td>
-</tr>
-</tbody>
-</table>
-</div>
+
 </div>
 </div>
 <div class="sect1">
 <h2 id="_registration_and_practical_information"><strong>Registration and Practical Information</strong></h2>
 <div class="sectionbody">
-<div class="paragraph">
-<p>Registration includes access to: all lectures and practical sessions, all course materials.</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="https://forms.gle/oeku3F3crTDb5N8F6">Practical Course Registration form</a></p>
-</li>
-<li>
-<p><a href="https://forms.gle/PRKcQsz5Aivj1qg19">Virtual Conference Registration form</a></p>
-</li>
-</ul>
-</div>
 <div class="sect2">
 <h3 id="_cost"><strong>Cost</strong></h3>
 <div class="paragraph">
@@ -1036,10 +601,10 @@ We expect to draw speakers from a diverse set of species contexts.</p>
 <div class="ulist">
 <ul>
 <li>
-<p>Academic - $200, with financial support if needed</p>
+<p>Academic - $300, with financial support if needed</p>
 </li>
 <li>
-<p>Industry - $400</p>
+<p>Industry - $600</p>
 </li>
 </ul>
 </div>
@@ -1122,7 +687,7 @@ We expect to draw speakers from a diverse set of species contexts.</p>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2023-06-12 15:23:05 +0200
+Last updated 2024-01-20 10:26:15 -0600
 </div>
 </div>
 </body>

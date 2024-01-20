@@ -1,4 +1,4 @@
-= *MemPanG23*
+= *MemPanG24*
 :figure-caption!:
 :toc-title: Page Content
 :toc: left
@@ -12,17 +12,15 @@ image::images/bridge.png[400]
 
 === *Important Dates*
 
-- Practical Course Registration Deadline: *15th April 2023*
-- Selected Participant will be notified by: *20th April 2023*
-- Payment Deadline: *29th May 2023*
-- Virtual Conference Registration Deadline: *29th May 2023*
+- Practical Course Registration Deadline: *XXth XX 2024*
+- Selected Participant will be notified by: *XXth XX 2024*
+- Payment Deadline: *XXth XX 2024*
+- Virtual Conference Registration Deadline: *XXth XX 2024*
 
 === *Course Venue*
 
 University of Tennessee Health Science Center +
-Mooney Building, +
-Library, Room 201, +
-875 Monroe Ave., +
+XXXX, +
 Memphis, TN 38163 +
 United States +
 -> https://goo.gl/maps/fCZbYYeGyUko353B8[See the venue on the map]
@@ -44,12 +42,12 @@ If you stay in Downtown, the Medical District, South City, or New Chicago, you c
 
 == *About the Practical Course*
 
-*Tuesday, May 30, 2023 - Thursday, June 1, 2023* +
+*Tuesday, XX XX, 2024 - Thursday, XX XX, 2024* +
 The use of a single reference genome in bioinformatics can lead to reference bias and miss important information about genome variability and relationships. New assembly methods have made it easier to generate high-quality complete genome assemblies, and using a pangenome graph that expresses many genomes and their mutual alignment can help address these issues. This course will focus on building such graphs from whole genome assemblies and using them in various downstream applications in comparative genomics, evolution, variation analysis, sequence alignment, and phenotype association.
 
 Participants will learn about pangenome concepts and gain practical experience building and analyzing pangenome graphs. They will apply these methods to complex research questions that require understanding the relationships between multiple genomes or accounting for variability when analyzing new genomes. By the end of the course, participants will have a strong understanding of pangenome methods based on whole genome assemblies.
 
-
+////
 == *About the Virtual Conference*
 
 *Friday, June 2, 2023* +
@@ -58,11 +56,11 @@ This will bring together course participants and virtual and in-person speakers 
 The virtual meeting will be open to the public.
 Speakers will cover topics at the intersection of pangenome methods and biology, including a focus on basic methods, data structures, genome assembly, data visualization, and public collaborative pangenome projects.
 We expect to draw speakers from a diverse set of species contexts.
-
+////
 == *People*
 
 === *Practical Course Instructors*
-
+////
 ==== Erik Garrison - Assistant Professor
 
 .[purple]#University of Tennessee Health Science Center, Memphis, TN, US#
@@ -118,10 +116,10 @@ My research focuses on a variety of topics in and around computational pangenomi
 image:images/Octicons-mark-github.svg[git,30] https://github.com/jeizenga[GitHub]
 
 '''
-
+////
 === *Practical Course Helpers*
 
-
+////
 ==== Flavia Villani - PhD student
 
 .[purple]#University of Tennessee Health Science Center, Memphis, TN, US#
@@ -150,9 +148,9 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/chfi[GitHub]
 - link:https://scholar.google.com/citations?hl=en&user=wpPBcf4AAAAJ&view_op=list_works&sortby=pubdate[Christina Boucher]
 - link:https://scholar.google.com/citations?user=z2edTLkAAAAJ&hl=en[Joep de Ligt]
 - link:https://scholar.google.com/citations?user=yp4X1F8AAAAJ&hl=en&oi=ao[Peter Sudmant]
-
+////
 === *Organizers*
-
+////
 - link:https://andreaguarracino.github.io/[Andrea Guarracino], University of Tennessee Health Science Center, Memphis, TN, US
 - link:http://hypervolu.me/~erik/erik_garrison.html[Erik Garrison], University of Tennessee Health Science Center, Memphis, TN, US
 - link:https://github.com/Flavia95[Flavia Villani], University of Tennessee Health Science Center, Memphis, TN, US
@@ -164,7 +162,7 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/chfi[GitHub]
 - link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos], University of Tuebingen Quantitative Biology Center, Tuebingen, DE
 //- link:https://www.uthsc.edu/genetics/faculty-staff.php[Tamara Brock], University of Tennessee Health Science Center, Memphis,TN,US
 - link:https://www.uthsc.edu/faculty/profile/?netid=vcolonna[Vincenza Colonna], University of Tennessee Health Science Center, Memphis, TN, US
-
+////
 
 image:images/UTHSC.png[uthsc,300]
 
@@ -173,7 +171,7 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 College of Medicine, Department of Pediatrics
 
 == *Program*
-
+////
 === *Practical Course (Central Time Zone)*
 
 *Zoom link*: https://tennesseehipaa.zoom.us/j/96698730457?pwd=TXNEbzRaVWRkNVhJY3dBalZGdGVzQT09
@@ -240,22 +238,22 @@ College of Medicine, Department of Pediatrics
 
 || 15:00 - 15:10 | link:https://docs.google.com/presentation/d/1nMvHckupefZ2iI4P161bbDxAyfC-x2NPJ3upwE5wRMI/edit?usp=sharing[Conference Closing] | link:https://www.uthsc.edu/faculty/profile/?netid=vcolonna[Vincenza Colonna]
 |===
-
+////
 
 == *Registration and Practical Information*
-
+////
 Registration includes access to: all lectures and practical sessions, all course materials.
 
 - link:https://forms.gle/oeku3F3crTDb5N8F6[Practical Course Registration form]
 
 - link:https://forms.gle/PRKcQsz5Aivj1qg19[Virtual Conference Registration form]
-
+////
 === *Cost*
 
 The cost is intended for the course. The conference is free. We do not expect meals to be included.
 
-- Academic - $200, with financial support if needed
-- Industry - $400
+- Academic - $300, with financial support if needed
+- Industry - $600
 
 === *Selection criteria*
 
