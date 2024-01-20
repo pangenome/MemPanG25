@@ -10,7 +10,7 @@ image::images/DRB1-3123.fa.gz.pggb-E-s5000-l15000-p80-n10-a0-K16-k8-w50000-j5000
 image::images/bridge.png[400]
 
 
-=== *Important Dates*
+=== *Important TENTATIVE Dates*
 
 - Course/Conference/Biohackathon Registration Deadline: *13th April 2024*
 - Selected Participant will be notified by: *20th April 2024*
