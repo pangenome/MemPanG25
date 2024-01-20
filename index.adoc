@@ -4,7 +4,7 @@
 :toc: left
 :toclevels: 2
 
-A computational pangenomics course in Memphis, TN.
+Computational pangenomics course, conference, and biohackathon in Memphis, TN.
 
 image::images/DRB1-3123.fa.gz.pggb-E-s5000-l15000-p80-n10-a0-K16-k8-w50000-j5000-e5000-I0-R0-N.smooth.chop.og.lay.draw_mqc.CROP.png[400]
 image::images/bridge.png[400]
@@ -12,10 +12,12 @@ image::images/bridge.png[400]
 
 === *Important Dates*
 
-- Practical Course Registration Deadline: *XXth XX 2024*
-- Selected Participant will be notified by: *XXth XX 2024*
-- Payment Deadline: *XXth XX 2024*
-- Virtual Conference Registration Deadline: *XXth XX 2024*
+- Course/Conference/Biohackathon Registration Deadline: *13th April 2024*
+- Selected Participant will be notified by: *20th April 2024*
+- Payment Deadline: *4th May 2024*
+- Course: *18th-19th May 2024*
+- Conference: *20th May 2024*
+- Biohackathon: *21st-22nd May 2024*
 
 === *Course Venue*
 
@@ -42,24 +44,30 @@ If you stay in Downtown, the Medical District, South City, or New Chicago, you c
 
 == *About the Practical Course*
 
-*Tuesday, XX XX, 2024 - Thursday, XX XX, 2024* +
+*Saturday, May 18, 2024 - Sunday, May 19, 2024* +
 The use of a single reference genome in bioinformatics can lead to reference bias and miss important information about genome variability and relationships. New assembly methods have made it easier to generate high-quality complete genome assemblies, and using a pangenome graph that expresses many genomes and their mutual alignment can help address these issues. This course will focus on building such graphs from whole genome assemblies and using them in various downstream applications in comparative genomics, evolution, variation analysis, sequence alignment, and phenotype association.
 
 Participants will learn about pangenome concepts and gain practical experience building and analyzing pangenome graphs. They will apply these methods to complex research questions that require understanding the relationships between multiple genomes or accounting for variability when analyzing new genomes. By the end of the course, participants will have a strong understanding of pangenome methods based on whole genome assemblies.
 
-////
-== *About the Virtual Conference*
+== *About the Conference*
 
-*Friday, June 2, 2023* +
-We will gather for a hybrid in-person and virtual conference on the last day of the week.
+*Monday, May 20, 2023* +
+We will gather for a in-person conference on the day after the practical course.
 This will bring together course participants and virtual and in-person speakers who are actively working on diverse aspects of pangenome research.
 The virtual meeting will be open to the public.
 Speakers will cover topics at the intersection of pangenome methods and biology, including a focus on basic methods, data structures, genome assembly, data visualization, and public collaborative pangenome projects.
 We expect to draw speakers from a diverse set of species contexts.
-////
+
+== *About the Biohackathon*
+
+*Tuesday, May 21, 2024 - Wednesday, May 22, 2024* +
+TBD
+
+
 == *People*
 
 === *Practical Course Instructors*
+TBD
 ////
 ==== Erik Garrison - Assistant Professor
 
@@ -117,8 +125,10 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/jeizenga[GitHub
 
 '''
 ////
+
 === *Practical Course Helpers*
 
+TBD
 ////
 ==== Flavia Villani - PhD student
 
@@ -138,10 +148,11 @@ image:images/christian.jpeg[christian,200,role="right"]Computer scientist also t
 image:images/Octicons-mark-github.svg[git,30] https://github.com/chfi[GitHub]
 
 {empty} +
+////
 
+=== *Conference Invited speakers*
 
-=== *Virtual Conference Invited speakers*
-
+////
 - link:https://scholar.google.com/citations?user=jfexpLUAAAAJ&hl=en[Zhigui Bao]
 - link:https://scholar.google.com/citations?hl=en&user=XzUOb7IAAAAJ[Arang Rhie]
 - link:https://scholar.google.com/citations?user=t0Sk55AAAAAJ&hl=en&oi=ao[Scott Edwards]
@@ -149,7 +160,11 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/chfi[GitHub]
 - link:https://scholar.google.com/citations?user=z2edTLkAAAAJ&hl=en[Joep de Ligt]
 - link:https://scholar.google.com/citations?user=yp4X1F8AAAAJ&hl=en&oi=ao[Peter Sudmant]
 ////
+
 === *Organizers*
+
+TBD
+
 ////
 - link:https://andreaguarracino.github.io/[Andrea Guarracino], University of Tennessee Health Science Center, Memphis, TN, US
 - link:http://hypervolu.me/~erik/erik_garrison.html[Erik Garrison], University of Tennessee Health Science Center, Memphis, TN, US
@@ -171,6 +186,9 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 College of Medicine, Department of Pediatrics
 
 == *Program*
+
+TBD
+
 ////
 === *Practical Course (Central Time Zone)*
 
@@ -211,9 +229,13 @@ College of Medicine, Department of Pediatrics
 || 16:30-17:15 | Everyone | Practical: link:https://github.com/arangrhie/MemPanG23/tree/main[T2T assembly problems]
 || 17:15-17:30 | Everyone | Q&A, Day 3 Survey
 |===
+////
 
-=== *Virtual Conference (Central Time Zone)*
+=== *Conference*
 
+TBD
+
+////
 *Time:* Friday, June 2, 2023 +
 *Place:* link:https://goo.gl/maps/tLySYa8zdLsUhE2C6[875 Monroe Ave, Mooney Building, Mooney Library] +
 *Zoom link*: https://tennesseehipaa.zoom.us/j/92881122014 +
@@ -240,7 +262,14 @@ College of Medicine, Department of Pediatrics
 |===
 ////
 
+=== *Biohackathon*
+
+TBD
+
 == *Registration and Practical Information*
+
+TBD
+
 ////
 Registration includes access to: all lectures and practical sessions, all course materials.
 
@@ -248,6 +277,7 @@ Registration includes access to: all lectures and practical sessions, all course
 
 - link:https://forms.gle/PRKcQsz5Aivj1qg19[Virtual Conference Registration form]
 ////
+
 === *Cost*
 
 The cost is intended for the course. The conference is free. We do not expect meals to be included.
