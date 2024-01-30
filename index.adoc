@@ -40,7 +40,7 @@ Let's make this a fun day!
 
 MemPanG24 Organizers
 
-=== *Course Venue*
+== *Course Venue*
 
 University of Tennessee Health Science Center +
 XXXX, +
@@ -49,7 +49,7 @@ United States +
 -> https://goo.gl/maps/fCZbYYeGyUko353B8[See the venue on the map]
 
 
-==== *Hotels in Memphis*
+=== *Hotels in Memphis*
 - link:https://goo.gl/maps/arRZWkjPCNBAFfCf9[La Quinta Hotel Memphis Downtown]
 - link:https://goo.gl/maps/Dwf9LgHeJLXsAJcf7[Double Tree Hotel]
 - link:https://goo.gl/maps/h5A6LpmToTD7DepH8[River Inn at Harbor Town Hotel]
@@ -59,7 +59,7 @@ United States +
 - link:https://goo.gl/maps/e4BcvEabefsqEhC4A[HU Hotel]
 - link:https://goo.gl/maps/Erq5cwVtM4hh8c8e7[Sheraton Memphis Downtown Hotel]
 
-==== *Transportation in Memphis*
+=== *Transportation in Memphis*
 
 If you stay in Downtown, the Medical District, South City, or New Chicago, you can reach the course venue by getting on-demand, convenient, and affordable rides with link:https://city.ridewithvia.com/groove-on-demand[Groove On-Demand].
 
