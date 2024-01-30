@@ -10,7 +10,7 @@ image::images/DRB1-3123.fa.gz.pggb-E-s5000-l15000-p80-n10-a0-K16-k8-w50000-j5000
 image::images/bridge.png[400]
 
 
-=== *Important TENTATIVE Dates*
+== *Important TENTATIVE Dates*
 
 - Course/Conference/Biohackathon Registration Deadline: *13th April 2024*
 - Selected Participant will be notified by: *20th April 2024*
@@ -18,6 +18,27 @@ image::images/bridge.png[400]
 - Course: *18th-19th May 2024*
 - Conference: *20th May 2024*
 - Biohackathon: *21st-22nd May 2024*
+
+== *OPEN CALL FOR SPEAKERS - MemPanG24*
+
+We are thrilled to announce an open invitation to experts and enthusiasts in the field of pangenome research to be a part of our upcoming MemPanG24.
+This significant event is scheduled for May 20th, 2024, and aims to delve into the multifaceted world of pangenome research.
+The submission deadline for talk proposals is *XXX, XXXth, 2024*.
+
+*Focus Areas:* Our conference will cover a broad range of topics, including but not limited to, methods in pangenome research, genome assembly, data visualization, and collaborative projects.
+
+*Diverse Perspectives:* We are looking for speakers who can provide insights from different species contexts and who can discuss topics that lie at the intersection of pangenome methods and biology. We are particularly interested in hearing about your unique work and perspectives in pangenome research.
+
+*Duration:* Each talk should be approximately 20-25 minutes, followed by a Q&A session, amounting to a total of 30 minutes.
+
+*Submission:* We kindly request you to forward the title and abstract of your talk upon confirmation of your participation.
+You can see abstract examples at https://complextrait.org/meetings/ctc-rg2023/abstracts.html.
+
+*Location:* The event will be held in Memphis.
+
+Let's make this a fun day!
+
+MemPanG24 Organizers
 
 === *Course Venue*
 
