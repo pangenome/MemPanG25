@@ -1,6 +1,6 @@
-= *Pangenomic abstract examples*
+= *MemPanG24 - Pangenomic abstract examples*
 :figure-caption!:
-:toc-title: Page Content
+:toc-title: MemPanG24
 :toc: left
 :toclevels: 2
 

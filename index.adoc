@@ -1,6 +1,6 @@
 = *MemPanG24*
 :figure-caption!:
-:toc-title: Page Content
+:toc-title: MemPanG24
 :toc: left
 :toclevels: 2
 
