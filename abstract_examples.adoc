@@ -1,26 +1,10 @@
-= *MemPanG24*
+= *Pangenomic abstract examples*
 :figure-caption!:
 :toc-title: Page Content
 :toc: left
 :toclevels: 2
 
-Computational pangenomics course, conference, and biohackathon in Memphis, TN.
-
-image::images/DRB1-3123.fa.gz.pggb-E-s5000-l15000-p80-n10-a0-K16-k8-w50000-j5000-e5000-I0-R0-N.smooth.chop.og.lay.draw_mqc.CROP.png[400]
-image::images/bridge.png[400]
-
-
-== *Pangenomic abstract examples*
-
 == Unveiling genetic complexity in rats through pangenome graphs and Genome-Phenome analysis - Flavia Villani, PhD student, University of Tennessee Health Science Center
-
-Flavia Villani1, Andrea Guarracino1,2, Rachel Ward3, Tomomi Green3, Madeleine Emms4, Michal Pravenec5, Pjotr Prins1, Erik Garrison1, Robert W. Williams1, Hao Chen3, Vincenza Colonna1,4
-
-1Department of Genetics, Genomics and Informatics, University of Tennessee Health Science Center
-2Genomics Research Centre, Human Technopole,Italy
-3Department of Pharmacology, Addiction Science, and Toxicology, University of Tennessee Health Science Center
-4Institute of Genetics and Biophysics, National Research Council, Italy 5
-Institute of Physiology, Czech Academy of Sciences.
 
 The HXB/BXH (HXB) family of recombinant inbred strains of rats has an unrivaled phenome with quantitative molecular and organismal phenotypes that have been systematically accumulated for over 25 years.
 We generated a pangenome for the HXB family of rats and used this resource to evaluate the functional impact of both known and new genetic variants.
@@ -72,7 +56,7 @@ Our analysis suggests that recombination between heterologous acrocentric chromo
 providing sequence and population-based confirmation of hypotheses first developed cytogenetically fifty years ago.
 
 
-== Pangenome graphs in pathogen genomics for public health - Joep de Ligt PhD, Senior Science Lead Bioinformatics & Genomics*
+== Pangenome graphs in pathogen genomics for public health - Joep de Ligt PhD, Senior Science Lead Bioinformatics & Genomics
 
 Whole genome sequencing has revolutionized infectious disease surveillance for tracking and monitoring the spread and evolution of pathogens.
 However, using a linear reference genome for genomic analyses may introduce biases, especially when studies are conducted on highly variable bacterial genomes of the same species.
@@ -98,4 +82,3 @@ We solve this problem, implement it, and demonstrate that this improves the cons
 This is joint work with Marco Oliva (PhD candidate at the University of Florida) and Travis Gagie at Dalhousie University.
 
 == link:https://pangenome.github.io/MemPanG24/[MemPanG24 details]
-
