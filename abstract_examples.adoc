@@ -4,7 +4,9 @@
 :toc: left
 :toclevels: 2
 
-== Unveiling genetic complexity in rats through pangenome graphs and Genome-Phenome analysis - Flavia Villani, PhD student, University of Tennessee Health Science Center
+== Unveiling genetic complexity in rats through pangenome graphs and Genome-Phenome analysis
+
+Flavia Villani, PhD student, University of Tennessee Health Science Center
 
 The HXB/BXH (HXB) family of recombinant inbred strains of rats has an unrivaled phenome with quantitative molecular and organismal phenotypes that have been systematically accumulated for over 25 years.
 We generated a pangenome for the HXB family of rats and used this resource to evaluate the functional impact of both known and new genetic variants.
@@ -26,9 +28,9 @@ One deletion, that is preceded by simple repeats, was consistently present in al
 Mutations in the Lmtk2 gene have been linked to multiple neurological disorders, including Alzheimer's disease, Parkinson's disease, and schizophrenia.
 These results demonstrate that pangenomes constructed from linked-reads can provide valuable information about genetic variation, making it a useful tool for the study of complex traits.
 
-== 2023 Update on GeneNetwork.org - Pjotr Prins, Associate Professor, University of Tennessee Health Science Center
+== 2023 Update on GeneNetwork.org
 
-Pjotr Prins, Rob W. Williams & the growing GeneNetwork team
+Pjotr Prins, Associate Professor, University of Tennessee Health Science Center
 
 Our GeneNetwork web-service (GN – formerly WebQTL) was developed for the needs of the mouse community, and represents over 25 years of research, data and software.
 Today we are growing support for other species, including synteny and pangenome-driven genotyping.
@@ -40,7 +42,9 @@ Rather than having researchers creating their own silos we promote interaction a
 That also means we actively invite new communities to contribute their data to GeneNetwork and we can organize workshops to introduce data submission and analysis options.
 Finally we’ll announce the GeneNetwork consortium that will allow us to write a paper on more than 25 years of GeneNetwork related efforts!
 
-== Recombination between heterologous human acrocentric chromosomes, Andrea Guarracino, Postdoctoral Scholar, University of Tennessee Health Science Center
+== Recombination between heterologous human acrocentric chromosomes
+
+Andrea Guarracino, Postdoctoral Scholar, University of Tennessee Health Science Center
 
 The evolution of repetitive sequences and their role in chromosomal rearrangements have long been of interest to evolutionary biologists.
 In this context, the homologous regions shared by the short arms of human acrocentric chromosomes (SAACs) 13, 14, 15, 21, and 22 have been a subject of long-standing interest.
@@ -56,7 +60,9 @@ Our analysis suggests that recombination between heterologous acrocentric chromo
 providing sequence and population-based confirmation of hypotheses first developed cytogenetically fifty years ago.
 
 
-== Pangenome graphs in pathogen genomics for public health - Joep de Ligt PhD, Senior Science Lead Bioinformatics & Genomics
+== Pangenome graphs in pathogen genomics for public health
+
+Joep de Ligt PhD, Senior Science Lead Bioinformatics & Genomics
 
 Whole genome sequencing has revolutionized infectious disease surveillance for tracking and monitoring the spread and evolution of pathogens.
 However, using a linear reference genome for genomic analyses may introduce biases, especially when studies are conducted on highly variable bacterial genomes of the same species.
@@ -67,7 +73,9 @@ The pangenome graph enables the identification of structural variants, rearrange
 We demonstrate that using a pangenome graph, instead of a single linear reference genome, improves mapping rates and variant calling for both simulated and real datasets of the pathogen _Neisseria meningitidis_.
 Overall, pangenome graphs offer a promising approach for comparative genomics and comprehensive genetic variation analysis in infectious disease.
 
-== Building a Pangenome Alignment Index via Recursive Prefix-Free Parsing - Christina Boucher, Associate Professor, University of Florida
+== Building a Pangenome Alignment Index via Recursive Prefix-Free Parsing
+
+Christina Boucher, Associate Professor, University of Florida
 
 Emerging pangenomic methods include VG, Giraffe, and Moni, where the first two methods build an index a variation graph from the multiple alignment of the sequences,
 and Moni simply indexes all the sequences in a manner that takes the repetition of the sequences into account.
