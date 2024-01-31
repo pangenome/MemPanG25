@@ -32,7 +32,7 @@ The submission deadline for talk proposals is *XXX, XXXth, 2024*.
 *Duration:* Each talk should be approximately 20-25 minutes, followed by a Q&A session, amounting to a total of 30 minutes.
 
 *Submission:* We kindly request you to forward the title and abstract of your talk upon confirmation of your participation.
-You can see abstract examples at https://complextrait.org/meetings/ctc-rg2023/abstracts.html.
+You can see abstract examples at https://pangenome.github.io/MemPanG24/abstract_examples.html.
 
 *Location:* The event will be held in Memphis.
 

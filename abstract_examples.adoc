@@ -1,0 +1,101 @@
+= *MemPanG24*
+:figure-caption!:
+:toc-title: Page Content
+:toc: left
+:toclevels: 2
+
+Computational pangenomics course, conference, and biohackathon in Memphis, TN.
+
+image::images/DRB1-3123.fa.gz.pggb-E-s5000-l15000-p80-n10-a0-K16-k8-w50000-j5000-e5000-I0-R0-N.smooth.chop.og.lay.draw_mqc.CROP.png[400]
+image::images/bridge.png[400]
+
+
+== *Pangenomic abstract examples*
+
+== Unveiling genetic complexity in rats through pangenome graphs and Genome-Phenome analysis - Flavia Villani, PhD student, University of Tennessee Health Science Center
+
+Flavia Villani1, Andrea Guarracino1,2, Rachel Ward3, Tomomi Green3, Madeleine Emms4, Michal Pravenec5, Pjotr Prins1, Erik Garrison1, Robert W. Williams1, Hao Chen3, Vincenza Colonna1,4
+
+1Department of Genetics, Genomics and Informatics, University of Tennessee Health Science Center
+2Genomics Research Centre, Human Technopole,Italy
+3Department of Pharmacology, Addiction Science, and Toxicology, University of Tennessee Health Science Center
+4Institute of Genetics and Biophysics, National Research Council, Italy 5
+Institute of Physiology, Czech Academy of Sciences.
+
+The HXB/BXH (HXB) family of recombinant inbred strains of rats has an unrivaled phenome with quantitative molecular and organismal phenotypes that have been systematically accumulated for over 25 years.
+We generated a pangenome for the HXB family of rats and used this resource to evaluate the functional impact of both known and new genetic variants.
+We sequenced both parents and all 30 progeny strains using linked-read libraries at ~40x coverage.
+We used PGGB to construct the family pangenome graph and to compute the frequency of major classes of DNA variants.
+Validation of SNVs on Chr 12 by Sanger sequencing underscored pangenome's potential for uncovering novel genetic variants,
+especially those residing in complex regions (repetitive regions and p-arm regions).
+Functional annotation of these variants highlighted their potential roles in gene regulation and molecular mechanisms.
+We focused on 12 validated genetic markers exclusively identified via the pangenome graph.
+We conducted a Phenome-Wide Association Study (PheWAS) to explore the broader significance of these novel variants.
+Intriguingly, we identified associations between specific markers and phenotypic traits, including a link between a lncRNA-encoding region and insulin concentration.
+Another association was found between a marker at 18.8 Mb and the insulin/glucose ratio in line with previous research.
+Specifically, our results align with a previously reported QTL highlighting a genomic region significantly linked to insulin resistance at T 30 min at 19.6 Mb.
+The investigation of structural variants (SVs) in Chr12 further confirmed the pangenome's reliability in detecting variations.
+We identified 2,481 high-confidence SVs, underscoring their presence in the SHR/OlaIpcv sample, 27 of which are predicted to have high impact.
+We validated 13 novel SVs with long-read sequencing using Nanopore technology.
+Out of 13, two insertions and four deletions consistently observed in the SHR/OlaIpcv sample and spanning multiple individuals were successfully validated.
+One deletion, that is preceded by simple repeats, was consistently present in all samples and situated within the Lmtk2 gene.
+Mutations in the Lmtk2 gene have been linked to multiple neurological disorders, including Alzheimer's disease, Parkinson's disease, and schizophrenia.
+These results demonstrate that pangenomes constructed from linked-reads can provide valuable information about genetic variation, making it a useful tool for the study of complex traits.
+
+== 2023 Update on GeneNetwork.org - Pjotr Prins, Associate Professor, University of Tennessee Health Science Center
+
+Pjotr Prins, Rob W. Williams & the growing GeneNetwork team
+
+Our GeneNetwork web-service (GN – formerly WebQTL) was developed for the needs of the mouse community, and represents over 25 years of research, data and software.
+Today we are growing support for other species, including synteny and pangenome-driven genotyping.
+In this talk we will discuss reorganization of the informatics of biomedical research and how that can go a long way towards addressing two problematic areas common to both human and model organism analysis:
+access to massive and complex ‘omics’ data, and the need for robust but accessible systems for analysis of joint statistical/causal models that produce useful predictions.
+We greatly improved search facilities and we are adding flexible data end-points exposing data and metadata.
+Combining and integrating datasets from old and new research, or de-siloing, will lead to novel connections and ideas followed by insight.
+Rather than having researchers creating their own silos we promote interaction and sharing of both data and tools and turn discovery into health.
+That also means we actively invite new communities to contribute their data to GeneNetwork and we can organize workshops to introduce data submission and analysis options.
+Finally we’ll announce the GeneNetwork consortium that will allow us to write a paper on more than 25 years of GeneNetwork related efforts!
+
+== Recombination between heterologous human acrocentric chromosomes, Andrea Guarracino, Postdoctoral Scholar, University of Tennessee Health Science Center
+
+The evolution of repetitive sequences and their role in chromosomal rearrangements have long been of interest to evolutionary biologists.
+In this context, the homologous regions shared by the short arms of human acrocentric chromosomes (SAACs) 13, 14, 15, 21, and 22 have been a subject of long-standing interest.
+While the first complete assembly of these regions in the Telomere-to-Telomere consortium’s human reference genome (T2T-CHM13) provided a model of their homology,
+it remained unclear whether these patterns were ancestral or maintained by ongoing recombination exchange.
+Here we demonstrate that the SAACs contain pseudo-homologous regions (PHRs) indicative of recombination between non-homologous chromosomes.
+Considering an all-to-all alignment of the high-quality human pangenome from the Human Pangenome Reference Consortium (HPRC),
+we find that contigs from all the SAACs form a community similar to that formed by the sex chromosome pair.
+Untangling a variation graph constructed from centromere-spanning acrocentric contigs, we highlight regions where most contigs appear as recombinants of heterologous T2T-CHM13 acrocentrics.
+On chromosomes 13, 14, 21, and 22, we observe lower levels of linkage disequilibrium in the PHRs than in their short and long arms, indicating higher rates of recombination.
+Of note, the PHRs include sequences previously shown to lie at the breakpoint of Robertsonian translocations and their arrangement is compatible with crossover in inverted duplications on chromosomes 13, 14, and 21.
+Our analysis suggests that recombination between heterologous acrocentric chromosomes is a basic feature of human genome architecture,
+providing sequence and population-based confirmation of hypotheses first developed cytogenetically fifty years ago.
+
+
+== Pangenome graphs in pathogen genomics for public health - Joep de Ligt PhD, Senior Science Lead Bioinformatics & Genomics*
+
+Whole genome sequencing has revolutionized infectious disease surveillance for tracking and monitoring the spread and evolution of pathogens.
+However, using a linear reference genome for genomic analyses may introduce biases, especially when studies are conducted on highly variable bacterial genomes of the same species.
+Pangenome graphs provide an efficient model for representing and analyzing multiple genomes and their variants as a graph structure that includes all types of variations.
+In this study, we present a practical bioinformatics pipeline that employs the PanGenome Graph Builder and the Variation Graph toolkit to build pangenomes from assembled genomes,
+align whole genome sequencing data and call variants against a graph reference.
+The pangenome graph enables the identification of structural variants, rearrangements, and small variants (e.g., single nucleotide polymorphisms and insertions/deletions) simultaneously.
+We demonstrate that using a pangenome graph, instead of a single linear reference genome, improves mapping rates and variant calling for both simulated and real datasets of the pathogen _Neisseria meningitidis_.
+Overall, pangenome graphs offer a promising approach for comparative genomics and comprehensive genetic variation analysis in infectious disease.
+
+== Building a Pangenome Alignment Index via Recursive Prefix-Free Parsing - Christina Boucher, Associate Professor, University of Florida
+
+Emerging pangenomic methods include VG, Giraffe, and Moni, where the first two methods build an index a variation graph from the multiple alignment of the sequences,
+and Moni simply indexes all the sequences in a manner that takes the repetition of the sequences into account.
+Moni uses a preprocessing technique called prefix-free parsing to build a dictionary and parse from the input—these, in turn, are used to build the main run-length encoded BWT,
+and suffix array of the input. This is accomplished in linear space in the size of the dictionary and parse.
+Therein lies the open problem that we tackle in this paper. Although the dictionary scales nicely (sub-linear) with the size of the input, the parse becomes orders of magnitude larger than the dictionary.
+To scale the construction of Moni, we need to remove the parse from the construction of the RLBWT and suffix array.
+We accomplish this, in this paper by applying prefix-free parsing recursively on the parse. Although conceptually simple,
+this leads to an algorithmic challenge of constructing the RLBWT and suffix array without access to the parse.
+We solve this problem, implement it, and demonstrate that this improves the construction time by a factor of 8.9 the running time and by a factor of 2.7 the memory required.
+
+This is joint work with Marco Oliva (PhD candidate at the University of Florida) and Travis Gagie at Dalhousie University.
+
+== link:https://pangenome.github.io/MemPanG24/[MemPanG24 details]
+
