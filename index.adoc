@@ -10,7 +10,7 @@ image::images/DRB1-3123.fa.gz.pggb-E-s5000-l15000-p80-n10-a0-K16-k8-w50000-j5000
 image::images/bridge.png[400]
 
 
-== *Important TENTATIVE Dates*
+== *Important Dates*
 
 - Course/Conference/Biohackathon Registration Deadline: *13th April 2024*
 - Selected Participant will be notified by: *20th April 2024*
@@ -40,14 +40,28 @@ Let's make this a fun day!
 
 MemPanG24 Organizers
 
-== *Course Venue*
+== *Venues*
 
+=== *Course*
 University of Tennessee Health Science Center +
 XXXX, +
 Memphis, TN 38163 +
 United States +
 -> https://goo.gl/maps/fCZbYYeGyUko353B8[See the venue on the map]
 
+=== *Conference*
+University of Tennessee Health Science Center +
+XXXX, +
+Memphis, TN 38163 +
+United States +
+-> https://goo.gl/maps/fCZbYYeGyUko353B8[See the venue on the map]
+
+=== *Biohackathon*
+University of Tennessee Health Science Center +
+XXXX, +
+Memphis, TN 38163 +
+United States +
+-> https://goo.gl/maps/fCZbYYeGyUko353B8[See the venue on the map]
 
 === *Hotels in Memphis*
 - link:https://goo.gl/maps/arRZWkjPCNBAFfCf9[La Quinta Hotel Memphis Downtown]
