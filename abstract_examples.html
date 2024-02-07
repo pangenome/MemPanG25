@@ -447,6 +447,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <li><a href="#_2023_update_on_genenetwork_org">2023 Update on GeneNetwork.org</a></li>
 <li><a href="#_recombination_between_heterologous_human_acrocentric_chromosomes">Recombination between heterologous human acrocentric chromosomes</a></li>
 <li><a href="#_pangenome_graphs_in_pathogen_genomics_for_public_health">Pangenome graphs in pathogen genomics for public health</a></li>
+<li><a href="#_building_a_pangenome_alignment_index_via_recursive_prefix_free_parsing">Building a Pangenome Alignment Index via Recursive Prefix-Free Parsing</a></li>
 <li><a href="#_mempang24_details">MemPanG24 details</a></li>
 </ul>
 </div>
@@ -541,6 +542,28 @@ Overall, pangenome graphs offer a promising approach for comparative genomics an
 </div>
 </div>
 <div class="sect1">
+<h2 id="_building_a_pangenome_alignment_index_via_recursive_prefix_free_parsing">Building a Pangenome Alignment Index via Recursive Prefix-Free Parsing</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Christina Boucher, Associate Professor, University of Florida</p>
+</div>
+<div class="paragraph">
+<p>Emerging pangenomic methods include VG, Giraffe, and Moni, where the first two methods build an index a variation graph from the multiple alignment of the sequences,
+and Moni simply indexes all the sequences in a manner that takes the repetition of the sequences into account.
+Moni uses a preprocessing technique called prefix-free parsing to build a dictionary and parse from the input—these, in turn, are used to build the main run-length encoded BWT,
+and suffix array of the input. This is accomplished in linear space in the size of the dictionary and parse.
+Therein lies the open problem that we tackle in this paper. Although the dictionary scales nicely (sub-linear) with the size of the input, the parse becomes orders of magnitude larger than the dictionary.
+To scale the construction of Moni, we need to remove the parse from the construction of the RLBWT and suffix array.
+We accomplish this, in this paper by applying prefix-free parsing recursively on the parse. Although conceptually simple,
+this leads to an algorithmic challenge of constructing the RLBWT and suffix array without access to the parse.
+We solve this problem, implement it, and demonstrate that this improves the construction time by a factor of 8.9 the running time and by a factor of 2.7 the memory required.</p>
+</div>
+<div class="paragraph">
+<p>This is joint work with Marco Oliva (PhD candidate at the University of Florida) and Travis Gagie at Dalhousie University.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
 <h2 id="_mempang24_details"><a href="https://pangenome.github.io/MemPanG24/">MemPanG24 details</a></h2>
 <div class="sectionbody">
 
@@ -549,7 +572,7 @@ Overall, pangenome graphs offer a promising approach for comparative genomics an
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2024-02-07 08:58:40 +0100
+Last updated 2024-02-07 09:20:49 +0100
 </div>
 </div>
 </body>

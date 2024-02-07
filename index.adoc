@@ -44,21 +44,18 @@ MemPanG24 organizers
 
 === *Course*
 University of Tennessee Health Science Center +
-XXXX, +
 Memphis, TN 38163 +
 United States +
 -> https://goo.gl/maps/fCZbYYeGyUko353B8[See the venue on the map]
 
 === *Conference*
 University of Tennessee Health Science Center +
-XXXX, +
 Memphis, TN 38163 +
 United States +
 -> https://goo.gl/maps/fCZbYYeGyUko353B8[See the venue on the map]
 
 === *Biohackathon*
 University of Tennessee Health Science Center +
-XXXX, +
 Memphis, TN 38163 +
 United States +
 -> https://goo.gl/maps/fCZbYYeGyUko353B8[See the venue on the map]
@@ -198,21 +195,11 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/chfi[GitHub]
 
 === *Organizers*
 
-TBD
-
-////
 - link:https://andreaguarracino.github.io/[Andrea Guarracino], University of Tennessee Health Science Center, Memphis, TN, US
 - link:http://hypervolu.me/~erik/erik_garrison.html[Erik Garrison], University of Tennessee Health Science Center, Memphis, TN, US
 - link:https://github.com/Flavia95[Flavia Villani], University of Tennessee Health Science Center, Memphis, TN, US
-- link:https://scholar.google.com/citations?user=rWNHPpAAAAAJ&hl=en[Jordan M Eizenga], University of California Genomics Institute, Santa Cruz, CA, US
-//- link:https://uthsc.edu/cbmi/big/big-faculty.php[Melanie Hayes], University of Tennessee Health Science Center, Memphis,TN,US
 - link:https://thebird.nl/[Pjotr Prins], University of Tennessee Health Science Center, Memphis, TN, US
-- link:https://www.uthsc.edu/faculty/profile/?netid=rdavis88[Robert Davis], University of Tennessee Health Science Center, Memphis, TN, US
-- link:https://www.uthsc.edu/faculty/profile/?netid=rwilli10[Robert Williams], University of Tennessee Health Science Center, Memphis, TN, US
-- link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos], University of Tuebingen Quantitative Biology Center, Tuebingen, DE
-//- link:https://www.uthsc.edu/genetics/faculty-staff.php[Tamara Brock], University of Tennessee Health Science Center, Memphis,TN,US
 - link:https://www.uthsc.edu/faculty/profile/?netid=vcolonna[Vincenza Colonna], University of Tennessee Health Science Center, Memphis, TN, US
-////
 
 image:images/UTHSC.png[uthsc,300]
 
