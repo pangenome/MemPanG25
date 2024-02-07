@@ -73,20 +73,20 @@ The pangenome graph enables the identification of structural variants, rearrange
 We demonstrate that using a pangenome graph, instead of a single linear reference genome, improves mapping rates and variant calling for both simulated and real datasets of the pathogen _Neisseria meningitidis_.
 Overall, pangenome graphs offer a promising approach for comparative genomics and comprehensive genetic variation analysis in infectious disease.
 
-== Building a Pangenome Alignment Index via Recursive Prefix-Free Parsing
-
-Christina Boucher, Associate Professor, University of Florida
-
-Emerging pangenomic methods include VG, Giraffe, and Moni, where the first two methods build an index a variation graph from the multiple alignment of the sequences,
-and Moni simply indexes all the sequences in a manner that takes the repetition of the sequences into account.
-Moni uses a preprocessing technique called prefix-free parsing to build a dictionary and parse from the input—these, in turn, are used to build the main run-length encoded BWT,
-and suffix array of the input. This is accomplished in linear space in the size of the dictionary and parse.
-Therein lies the open problem that we tackle in this paper. Although the dictionary scales nicely (sub-linear) with the size of the input, the parse becomes orders of magnitude larger than the dictionary.
-To scale the construction of Moni, we need to remove the parse from the construction of the RLBWT and suffix array.
-We accomplish this, in this paper by applying prefix-free parsing recursively on the parse. Although conceptually simple,
-this leads to an algorithmic challenge of constructing the RLBWT and suffix array without access to the parse.
-We solve this problem, implement it, and demonstrate that this improves the construction time by a factor of 8.9 the running time and by a factor of 2.7 the memory required.
-
-This is joint work with Marco Oliva (PhD candidate at the University of Florida) and Travis Gagie at Dalhousie University.
+// == Building a Pangenome Alignment Index via Recursive Prefix-Free Parsing
+//
+// Christina Boucher, Associate Professor, University of Florida
+//
+// Emerging pangenomic methods include VG, Giraffe, and Moni, where the first two methods build an index a variation graph from the multiple alignment of the sequences,
+// and Moni simply indexes all the sequences in a manner that takes the repetition of the sequences into account.
+// Moni uses a preprocessing technique called prefix-free parsing to build a dictionary and parse from the input—these, in turn, are used to build the main run-length encoded BWT,
+// and suffix array of the input. This is accomplished in linear space in the size of the dictionary and parse.
+// Therein lies the open problem that we tackle in this paper. Although the dictionary scales nicely (sub-linear) with the size of the input, the parse becomes orders of magnitude larger than the dictionary.
+// To scale the construction of Moni, we need to remove the parse from the construction of the RLBWT and suffix array.
+// We accomplish this, in this paper by applying prefix-free parsing recursively on the parse. Although conceptually simple,
+// this leads to an algorithmic challenge of constructing the RLBWT and suffix array without access to the parse.
+// We solve this problem, implement it, and demonstrate that this improves the construction time by a factor of 8.9 the running time and by a factor of 2.7 the memory required.
+//
+// This is joint work with Marco Oliva (PhD candidate at the University of Florida) and Travis Gagie at Dalhousie University.
 
 == link:https://pangenome.github.io/MemPanG24/[MemPanG24 details]
