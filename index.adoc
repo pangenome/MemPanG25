@@ -97,8 +97,10 @@ We expect to draw speakers from a diverse set of species contexts.
 == *About the Biohackathon*
 
 *Tuesday, May 21, 2024 - Wednesday, May 22, 2024* +
-TBD
 
+We have a focus on software.
+We will work with/on pangenomic tools (such as link:https://github.com/pangenome/pggb/[PGGB], link:https://github.com/waveygang/wfmash/[WFMASH], link:https://github.com/ekg/seqwish/[SEQWISH], link:https://github.com/pangenome/odgi/[ODGI], link:https://github.com/pangenome/smoothxg/[SMOOTHXG], link:https://github.com/vgteam/vg[VG], link:https://github.com/vcflib/vcflib/[VCFLIB], link:https://github.com/genetics-statistics/GEMMA/[GEMMA]) with software project leadership.
+*You are welcome to bring your own projects!*
 
 == *People*
 
