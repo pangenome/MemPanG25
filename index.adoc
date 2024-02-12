@@ -44,25 +44,25 @@ MemPanG24 organizers
 
 == *Venues*
 
-=== *Practical course / Workshop*
+=== Practical course / Workshop
 University of Tennessee Health Science Center +
 Memphis, TN 38163 +
 United States +
 -> https://goo.gl/maps/fCZbYYeGyUko353B8[See the venue on the map]
 
-=== *Conference*
+=== Conference
 University of Tennessee Health Science Center +
 Memphis, TN 38163 +
 United States +
 -> https://goo.gl/maps/fCZbYYeGyUko353B8[See the venue on the map]
 
-=== *Biohackathon*
+=== Biohackathon
 University of Tennessee Health Science Center +
 Memphis, TN 38163 +
 United States +
 -> https://goo.gl/maps/fCZbYYeGyUko353B8[See the venue on the map]
 
-=== *Hotels in Memphis*
+=== Hotels in Memphis
 - link:https://goo.gl/maps/arRZWkjPCNBAFfCf9[La Quinta Hotel Memphis Downtown]
 - link:https://goo.gl/maps/Dwf9LgHeJLXsAJcf7[Double Tree Hotel]
 - link:https://goo.gl/maps/h5A6LpmToTD7DepH8[River Inn at Harbor Town Hotel]
@@ -72,7 +72,7 @@ United States +
 - link:https://goo.gl/maps/e4BcvEabefsqEhC4A[HU Hotel]
 - link:https://goo.gl/maps/Erq5cwVtM4hh8c8e7[Sheraton Memphis Downtown Hotel]
 
-=== *Transportation in Memphis*
+=== Transportation in Memphis
 
 If you stay in Downtown, the Medical District, South City, or New Chicago, you can reach the event venue by getting on-demand, convenient, and affordable rides with link:https://city.ridewithvia.com/groove-on-demand[Groove On-Demand].
 
@@ -102,7 +102,7 @@ TBD
 
 == *People*
 
-=== *Practical Course / Workshop Instructors*
+=== Practical Course / Workshop Instructors
 
 ==== Erik Garrison - Assistant Professor
 
@@ -163,7 +163,7 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/jeizenga[GitHub
 '''
 ////
 
-=== *Practical Course Helpers*
+=== Practical Course Helpers
 
 ==== Flavia Villani - PhD student
 
@@ -185,7 +185,7 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/chfi[GitHub]
 {empty} +
 ////
 
-=== *Conference Invited speakers*
+=== Conference Invited speakers
 
 TBD
 ////
@@ -197,7 +197,7 @@ TBD
 - link:https://scholar.google.com/citations?user=yp4X1F8AAAAJ&hl=en&oi=ao[Peter Sudmant]
 ////
 
-=== *Organizers*
+=== Organizers
 
 - link:https://andreaguarracino.github.io/[Andrea Guarracino], University of Tennessee Health Science Center, Memphis, TN, US
 - link:http://hypervolu.me/~erik/erik_garrison.html[Erik Garrison], University of Tennessee Health Science Center, Memphis, TN, US
@@ -257,7 +257,7 @@ TBD
 |===
 ////
 
-=== *Conference*
+=== Conference
 
 TBD
 
@@ -288,25 +288,26 @@ TBD
 |===
 ////
 
-=== *Biohackathon*
+=== Biohackathon
 
 TBD
 
 == *Registration and Practical Information*
 
 *Conference pre-registration for speakers:* https://docs.google.com/forms/d/e/1FAIpQLSe2mnJ_kZm_I2j5lIBoLGL-hLW4mxzHpphvWomLbsul4C8goA/viewform?usp=sf_link
+
 *Registration for event attendees:* https://docs.google.com/forms/d/e/1FAIpQLSc1E3dJneGxCQrYOM8OOYkZhfH6OxLaGMJd654Cjt3pReyINA/viewform?usp=sf_link
 
 Registration includes access to: all lectures and practical sessions, all course materials.
 
-=== *Cost*
+=== Cost
 
 The cost is intended for the practical course / workshop. Conference and biohackaton are free. We do not expect meals to be included.
 
 - Academic - $300, with financial support if needed
 - Industry - $600
 
-=== *Selection criteria*
+=== Selection criteria
 
 This practical course / workshop is intended for biologists and bioinformaticians interested in studying organisms with high genetic diversity or without a reference genome, as well as those involved in comparative genomics and the assembly of pangenomes for any species.
 
@@ -330,8 +331,6 @@ https://www.memphistravel.com/sports-outdoors?gclid=Cj0KCQiAgOefBhDgARIsAMhqXA4G
 
 {empty} +
 {empty} +
-
-
 
 == *Contact*
 
