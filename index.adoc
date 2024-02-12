@@ -185,6 +185,8 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/chfi[GitHub]
 {empty} +
 ////
 
+'''
+
 === Conference Invited speakers
 
 TBD
@@ -196,6 +198,8 @@ TBD
 - link:https://scholar.google.com/citations?user=z2edTLkAAAAJ&hl=en[Joep de Ligt]
 - link:https://scholar.google.com/citations?user=yp4X1F8AAAAJ&hl=en&oi=ao[Peter Sudmant]
 ////
+
+'''
 
 === Organizers
 
