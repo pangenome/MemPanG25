@@ -308,7 +308,7 @@ Registration includes access to: all lectures and practical sessions, all course
 
 === Cost
 
-The cost is intended for the practical course / workshop. Conference and biohackaton are free. We do not expect meals to be included.
+The cost is intended for the practical course / workshop. Conference and biohackaton are free. Meals are included.
 
 - Academic - $300, with financial support if needed
 - Industry - $600
