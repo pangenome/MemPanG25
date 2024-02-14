@@ -88,7 +88,7 @@ By the end of the practical course / workshop, participants will have a strong u
 == *About the Conference*
 
 *Monday, May 20, 2023* +
-We will gather for an in-person conference on the day after the course / workshop.
+We will gather for an in-person conference on the day after the practical course / workshop.
 This will bring together practical course / workshop participants and virtual and in-person speakers who are actively working on diverse aspects of pangenome research.
 The virtual meeting will be open to the public.
 Speakers will cover topics at the intersection of pangenome methods and biology, including a focus on basic methods, data structures, genome assembly, data visualization, and public collaborative pangenome projects.
@@ -322,7 +322,7 @@ Selection of participants will be based on:
 - good knowledge of Linux operating system and basic shell commands. This will be a mandatory prerequisite.
 - familiarity with genomics data formats (e.g., FASTA, VCF, BED, ...) is a plus.
 - impact of the practical course / workshop for the participant and his/her research group.
-- stage of the research project: priority will be given to participants with data already available and ready to be analyzed (participants data will not be analyzed during the course).
+- stage of the research project: priority will be given to participants with data already available and ready to be analyzed (participants data will not be analyzed during the practical course / workshop).
 
 Fulfillment of these conditions by participants will be assessed through the registration form.
 
