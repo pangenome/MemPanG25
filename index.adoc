@@ -23,7 +23,7 @@ image::images/bridge.png[400]
 
 We are thrilled to announce an open invitation to experts and enthusiasts in the field of pangenome research to be a part of our upcoming MemPanG24.
 This significant event is scheduled for May 20th, 2024, and aims to delve into the multifaceted world of pangenome research.
-The submission deadline for talk proposals is *April 20th, 2024*.
+The submission deadline for talk proposals is *April 13th, 2024*.
 
 *Focus Areas:* Our conference will cover a broad range of topics, including but not limited to, methods in pangenome research, genome assembly, data visualization, artificial intelligence (AI), and collaborative projects.
 
