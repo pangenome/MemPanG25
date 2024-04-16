@@ -221,78 +221,64 @@ College of Medicine, Department of Pediatrics
 
 === Practical course / Workshop
 
-TBD
-
+*Place*: TBD
 ////
-*Zoom link*: https://tennesseehipaa.zoom.us/j/96698730457?pwd=TXNEbzRaVWRkNVhJY3dBalZGdGVzQT09
-
-*Place*: link:https://goo.gl/maps/tLySYa8zdLsUhE2C6[875 Monroe Ave, Mooney Building, Nash Atrium]
+link:https://goo.gl/maps/tLySYa8zdLsUhE2C6[875 Monroe Ave, Mooney Building, Nash Atrium]
+////
 
 [options="header", cols="2,1,2,4"]
 |===
 |Day | Time | Speaker(s) | Topic
 
-|Tuesday, May 30, 2023 | 14:30-16:00 | link:http://hypervolu.me/~erik/erik_garrison.html[Erik Garrison] | Presentation: link:https://docs.google.com/presentation/d/1tkWQ6I-oD73MUPGzw3pc1waJ1w2_sx528K188w1srTM/edit?usp=sharing[Introduction to pangenomics]
+|Saturday, May 18, 2024 | 09:30-10:00  | link:http://hypervolu.me/~erik/erik_garrison.html[Erik Garrison] | Presentation Introduction to pangenomics
+|| 10:00-10:30 | Everyone | Practical
+|| 10:30-11:00 | Everyone | Coffee break
+|| 11:00-12:30 | Everyone | Practical
+|| *12:30-14:30* | *Everyone* | *Lunch (provided)*
+|| 14:30-15:00 | link:https://andreaguarracino.github.io/[Andrea Guarracino] | Presentation: Understanding pangenomes
+|| 15:00-16:00 | Everyone | Practical
 || 16:00-16:30 | Everyone | Coffee break
-|| 16:30-17:15 | Everyone | Practical: link:https://hackmd.io/@AndreaGuarracino/HkrROK_V3[HLA & LPA graphs, PGGB]
+|| 16:30-17:15 | Everyone | Practical
 || 17:15-17:30 | Everyone | Q&A, Day 1 Survey
+||  |  | 
 
-|Wednesday, May 31, 2023 | 09:30-10:00 | link:https://andreaguarracino.github.io/[Andrea Guarracino] | Presentation: link:https://docs.google.com/presentation/d/1IXs7HDdpCZBY-MapoGaZe0P-iVwgZfgpApC0vQ5icJ0/edit?usp=sharing[Understanding pangenomes]
-|| 10:00-10:30 | Everyone | Practical: link:https://hackmd.io/@AndreaGuarracino/SyhbiKuE2[Human pangenome graph building]
+|Sunday, May 19, 2024 | 09:30-10:00 | TBD | TBD
+|| 10:00-10:30 | Everyone | Practical: TBD
 || 10:30-11:00 | Everyone | Coffee break
-|| 11:00-12:30 | Everyone | Practical: link:https://hackmd.io/@AndreaGuarracino/SyhbiKuE2[ODGI and community detection]
-|| 12:30-14:30 | Everyone | Lunch
-
-|| 14:30-15:00 | link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos] | Presentation: link:https://docs.google.com/presentation/d/1QRGhBakOGabrV-Azyw9lhw3lr0kYvgep-kkWAyeV4Ns/edit#slide=id.g24a51804cbb_0_849[pangenome openness, nf-co.re/pangenome]
-|| 15:00-16:00 | Everyone | Practical: link:https://hackmd.io/@subwaystation/Bkx_42iNn[pangenome openness, nf-co.re/pangenome]
+|| 11:00-12:30 | Everyone | Practical: TBD
+|| *12:30-14:30* | *Everyone* | *Lunch (provided)*
+|| 14:30-15:00 | link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos] | Presentation: pangenome openness, nf-co.re/pangenome
+|| 15:00-16:00 | Everyone | Practical: TBD
 || 16:00-16:30 | Everyone | Coffee break
-|| 16:30-17:15 | Everyone | Practical: link:https://hackmd.io/@subwaystation/Bkx_42iNn[pangenome openness, nf-co.re/pangenome]
+|| 16:30-17:15 | Everyone | Practical: TBD
 || 17:15-17:30 | Everyone | Q&A, Day 2 Survey
-
-|Thursday, June 1, 2023 | 09:30-10:00 | link:https://scholar.google.com/citations?user=rWNHPpAAAAAJ&hl=en[Jordan M Eizenga] | Presentation: link:https://docs.google.com/presentation/d/1IkcVWmjkKhAThE_nWBPYntscthSty3JpnMOPmTf5Zo8/edit?usp=sharing[Read mapping with vg giraffe]
-|| 10:00-10:30 | Everyone | Practical: link:https://github.com/pangenome/MemPanG23/blob/main/lessons/Day_3a_vg_mapping_and_calling.md[alignment and variant calling]
-|| 10:30-11:00 | Everyone | Coffee break
-|| 11:00-12:30 | Everyone | Practical: link:https://github.com/pangenome/MemPanG23/blob/main/lessons/Day_3a_vg_mapping_and_calling.md[alignment and variant calling]
-|| 12:30-14:30 | Everyone | Lunch
-
-|| 14:30-15:00 | link:https://genomeinformatics.github.io/people/rhie/[Arang Rhie] | Presentation: link:https://docs.google.com/presentation/d/1AUKy5C3Q4whWBbdKNAKmgmmeXjeqeVFkXMPo7MSYryQ/edit?usp=sharing[State of the art in genome assembly]
-|| 15:00-16:00 | Everyone | Practical: link:https://github.com/arangrhie/MemPanG23/tree/main[T2T assembly problems]
-|| 16:00-16:30 | Everyone | Coffee break
-|| 16:30-17:15 | Everyone | Practical: link:https://github.com/arangrhie/MemPanG23/tree/main[T2T assembly problems]
-|| 17:15-17:30 | Everyone | Q&A, Day 3 Survey
 |===
-////
+
 
 === Conference
 
-TBD
-
-////
-*Time:* Friday, June 2, 2023 +
-*Place:* link:https://goo.gl/maps/tLySYa8zdLsUhE2C6[875 Monroe Ave, Mooney Building, Mooney Library] +
-*Zoom link*: https://tennesseehipaa.zoom.us/j/92881122014 +
-*Recording*: https://youtu.be/TaoRZYOOC1Y
+*Time:* Monday, May 20, 2024 +
+*Place:* TBD
 
 [options="header", cols="2,2,5,2"]
 |===
 |Chair | Time | Talk | Speaker
 
-|| 09:20 - 09:30 | Conference Opening | link:https://scholar.google.com/citations?user=OYJMYwIAAAAJ&hl=en[Rob Williams]
+|| 09:20 - 09:30 | Conference Opening | TBD
 
-|link:https://andreaguarracino.github.io/[Andrea Guarracino] | 09:30 - 10:00 | Hidden complex genome rearrangements in the plant pangenome graph | link:https://scholar.google.com/citations?user=jfexpLUAAAAJ&hl=en[Zhigui Bao]
-|| 10:00 - 10:30 | https://github.com/pangenome/MemPanG23/blob/main/conference/2023_0602_MemPanG23_RhieA.pdf[Beyond one T2T human genome: What's next?] | link:https://scholar.google.com/citations?hl=en&user=XzUOb7IAAAAJ[Arang Rhie]
+|link:https://andreaguarracino.github.io/[Andrea Guarracino] | 09:30 - 10:00 | TBD | TBD
+|| 10:00 - 10:30 | TBD | TBD
 || 10:30 - 11:00 | Coffee break |
 
-|link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos] | 11:00 - 11:30 | Unexpected complexity and abundant structural variation in the pangenomes of birds | link:https://scholar.google.com/citations?user=t0Sk55AAAAAJ&hl=en&oi=ao[Scott Edwards]
-|| 11:30 - 12:00 | Building a Pangenome Alignment Index via Recursive Prefix-Free Parsing  | link:https://scholar.google.com/citations?hl=en&user=wpPBcf4AAAAJ&view_op=list_works&sortby=pubdate[Christina Boucher]
+|link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos] | 11:00 - 11:30 | TBD | TBD
+|| 11:30 - 12:00 | TBD  | TBD
 || 12:00 - 14:00 | Lunch |
 
-|link:https://github.com/Flavia95[Flavia Villani] | 14:00 - 14:30 | link:https://drive.google.com/file/d/1faIl34X3flI46qzPkLEaquEFSajvXYmq/view[Pangenome graphs in pathogen genomics for public health] | link:https://scholar.google.com/citations?user=z2edTLkAAAAJ&hl=en[Joep de Ligt]
-|| 14:30 - 15:00 | Recent human evolution of complex genome architectures | link:https://scholar.google.com/citations?user=yp4X1F8AAAAJ&hl=en&oi=ao[Peter Sudmant]
+|link:https://github.com/Flavia95[Flavia Villani] | 14:00 - 14:30 | TBD | TBD
+|| 14:30 - 15:00 | TBD | TBD
 
-|| 15:00 - 15:10 | link:https://docs.google.com/presentation/d/1nMvHckupefZ2iI4P161bbDxAyfC-x2NPJ3upwE5wRMI/edit?usp=sharing[Conference Closing] | link:https://www.uthsc.edu/faculty/profile/?netid=vcolonna[Vincenza Colonna]
+|| 15:00 - 15:10 | Conference Closing | TBD
 |===
-////
 
 === Biohackathon
 
@@ -308,7 +294,7 @@ Registration includes access to: all lectures and practical sessions, all course
 
 === Cost
 
-The cost is intended for the practical course / workshop. Conference and biohackaton are free. Meals (lunches) and coffee are included and provided.
+The cost is intended for the practical course / workshop. Conference and biohackaton are free. Meals (lunches) and coffee are included and provided for both 2 days during the Practical course / Workshop.
 
 - Academic - $200, with financial support if needed
 - Industry - $400
