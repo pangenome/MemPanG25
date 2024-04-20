@@ -18,7 +18,7 @@ image::images/bridge.png[400]
 - Practical course / Workshop: *18th-19th May 2024*
 - Conference: *20th May 2024*
 - Biohackathon: *21st-22nd May 2024*
-
+////
 == *OPEN CALL FOR SPEAKERS - MemPanG24*
 
 We are thrilled to announce an open invitation to experts and enthusiasts in the field of pangenome research to be a part of our upcoming MemPanG24.
@@ -41,7 +41,7 @@ You can see abstract examples at https://pangenome.github.io/MemPanG24/abstract_
 Let's make this a fun day!
 
 MemPanG24 organizers
-
+////
 == *Venues*
 
 === Practical course / Workshop
@@ -126,8 +126,6 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/andreaguarracin
 
 '''
 
-////
-
 ==== Simon Heumos - PhD student
 
 .[purple]#Quantitative Biology Center (QBiC), University of Tübingen, Tübingen, DE | Biomedical Data Science, Department of Computer Science, University of Tübingen, Tübingen, DE#
@@ -139,6 +137,8 @@ Bioinformatician by training. I am exploring methods to calculate and visualize 
 image:images/Octicons-mark-github.svg[git,30] https://github.com/subwaystation[GitHub]
 
 '''
+
+////
 
 ==== Arang Rhie - Staff Scientist
 
@@ -286,9 +286,15 @@ TBD
 
 == *Registration and Practical Information*
 
-*Conference pre-registration for speakers:* https://docs.google.com/forms/d/e/1FAIpQLSe2mnJ_kZm_I2j5lIBoLGL-hLW4mxzHpphvWomLbsul4C8goA/viewform?usp=sf_link
+*Conference pre-registration for speakers:* ended
+////
+https://docs.google.com/forms/d/e/1FAIpQLSe2mnJ_kZm_I2j5lIBoLGL-hLW4mxzHpphvWomLbsul4C8goA/viewform?usp=sf_link
+////
 
-*Registration for event attendees:* https://docs.google.com/forms/d/e/1FAIpQLSc1E3dJneGxCQrYOM8OOYkZhfH6OxLaGMJd654Cjt3pReyINA/viewform?usp=sf_link
+*Registration for event attendees:* ended
+////
+https://docs.google.com/forms/d/e/1FAIpQLSc1E3dJneGxCQrYOM8OOYkZhfH6OxLaGMJd654Cjt3pReyINA/viewform?usp=sf_link
+////
 
 Registration includes access to: all lectures and practical sessions, all course materials.
 
