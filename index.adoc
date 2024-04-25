@@ -52,16 +52,20 @@ United States +
 -> https://www.google.com/maps/place/930+Madison+Ave,+Memphis,+TN+38103/@35.1405526,-90.0321798,17z/data=!3m1!4b1!4m6!3m5!1s0x87d57e65083437ab:0x975bb3c7cbb47cf0!8m2!3d35.1405526!4d-90.0296049!16s%2Fg%2F11c26jf2ws?entry=ttu[See the venue on the map]
 
 === Conference
-University of Tennessee Health Science Center +
-Memphis, TN 38163 +
+*Freeman Auditorium at the Hamilton Eye Institute* +
+930 Madison Ave, +
+Memphis, TN 38103 +
 United States +
--> https://goo.gl/maps/fCZbYYeGyUko353B8[See the venue on the map]
+-> https://www.google.com/maps/place/930+Madison+Ave,+Memphis,+TN+38103/@35.1405526,-90.0321798,17z/data=!3m1!4b1!4m6!3m5!1s0x87d57e65083437ab:0x975bb3c7cbb47cf0!8m2!3d35.1405526!4d-90.0296049!16s%2Fg%2F11c26jf2ws?entry=ttu[See the venue on the map]
 
 === Biohackathon
+TBD
+////
 University of Tennessee Health Science Center +
 Memphis, TN 38163 +
 United States +
 -> https://goo.gl/maps/fCZbYYeGyUko353B8[See the venue on the map]
+////
 
 === Hotels in Memphis
 - link:https://goo.gl/maps/arRZWkjPCNBAFfCf9[La Quinta Hotel Memphis Downtown]
