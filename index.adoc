@@ -235,7 +235,8 @@ College of Medicine, Department of Pediatrics
 
 |link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos] | 11:00 - 11:30 | TBD | TBD
 || 11:30 - 12:00 | TBD  | TBD
-|| 12:00 - 14:00 | Lunch |
+|| 12:00 - 12:30 | TBD  | TBD
+|| 12:30 - 14:00 | Lunch |
 
 |link:https://github.com/Flavia95[Flavia Villani] | 14:00 - 14:30 | TBD | TBD
 || 14:30 - 15:00 | TBD | TBD
