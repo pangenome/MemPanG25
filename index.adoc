@@ -59,9 +59,9 @@ United States +
 -> https://www.google.com/maps/place/930+Madison+Ave,+Memphis,+TN+38103/@35.1405526,-90.0321798,17z/data=!3m1!4b1!4m6!3m5!1s0x87d57e65083437ab:0x975bb3c7cbb47cf0!8m2!3d35.1405526!4d-90.0296049!16s%2Fg%2F11c26jf2ws?entry=ttu[See the venue on the map]
 
 === Biohackathon
-*Room 101, UTHSC Translational Research Science Building*
-71 S Manassas St,
-Memphis, TN 38103
+*Room 101, UTHSC Translational Research Science Building* +
+71 S Manassas St, +
+Memphis, TN 38103 +
 United States +
 -> https://maps.app.goo.gl/QpQgUyRyjzjxP1vM9[See the venue on the map]
 
