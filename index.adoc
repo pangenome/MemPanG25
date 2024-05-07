@@ -59,13 +59,11 @@ United States +
 -> https://www.google.com/maps/place/930+Madison+Ave,+Memphis,+TN+38103/@35.1405526,-90.0321798,17z/data=!3m1!4b1!4m6!3m5!1s0x87d57e65083437ab:0x975bb3c7cbb47cf0!8m2!3d35.1405526!4d-90.0296049!16s%2Fg%2F11c26jf2ws?entry=ttu[See the venue on the map]
 
 === Biohackathon
-TBD
-////
-University of Tennessee Health Science Center +
-Memphis, TN 38163 +
+*Room 101, UTHSC Translational Research Science Building*
+71 S Manassas St,
+Memphis, TN 38103
 United States +
--> https://goo.gl/maps/fCZbYYeGyUko353B8[See the venue on the map]
-////
+-> https://maps.app.goo.gl/QpQgUyRyjzjxP1vM9[See the venue on the map]
 
 === Hotels in Memphis
 - link:https://goo.gl/maps/arRZWkjPCNBAFfCf9[La Quinta Hotel Memphis Downtown]
@@ -143,33 +141,6 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/subwaystation[G
 
 '''
 
-////
-
-==== Arang Rhie - Staff Scientist
-
-.[purple]#Genome Informatics Section, Computational and Statistical Genomics Branch, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA#
-
-image:images/arang.jpeg[arang,200,role="right"]
-
-I am an active member of the Vertebrate Genomes Project (VGP), Earth Biogenome Project (EBP), Human Pangenome Reference Consortium (HPRC) and the Telomere-to-Telomere consortium (T2T).
-
-image:images/Octicons-mark-github.svg[git,30] https://github.com/arangrhie[GitHub]
-
-'''
-
-==== Jordan Eizenga - Postdoctoral Researcher
-
-.[purple]#UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA#
-
-image:images/jordan.webp[jordan,200,role="right"]
-
-My research focuses on a variety of topics in and around computational pangenomics. I am part of VG team.
-
-image:images/Octicons-mark-github.svg[git,30] https://github.com/jeizenga[GitHub]
-
-'''
-////
-
 === Practical Course Helpers
 
 ==== Flavia Villani - PhD student
@@ -178,19 +149,6 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/jeizenga[GitHub
 image:images/Flavia.JPG[flavia,200,role="right"] I have a master degree in Medical Biotechnology from the University of Naples Federico II. Currently, I am a PhD student at the University of Tennessee Health Science Center. I am building the pangenome of model organisms (inbred mice and rats) using a combination of second and third generation sequence data.
 
 image:images/Octicons-mark-github.svg[git,30] https://github.com/Flavia95[GitHub]
-////
-
-'''
-==== Christian Fischer - IT Analyst III
-
-.[purple]#University of Tennessee Health Science Center, Memphis, TN, US#
-image:images/christian.jpeg[christian,200,role="right"]Computer scientist also trained in interaction design, with a love for mathematics. I work on tooling for variation graphs using the Rust programming language, with a special interest in visualization, which is currently channeled into my pangenome visualization tool Waragraph.
-
-
-image:images/Octicons-mark-github.svg[git,30] https://github.com/chfi[GitHub]
-
-{empty} +
-////
 
 '''
 
@@ -226,10 +184,9 @@ College of Medicine, Department of Pediatrics
 
 === Practical course / Workshop
 
-*Place*: TBD
-////
-link:https://goo.gl/maps/tLySYa8zdLsUhE2C6[875 Monroe Ave, Mooney Building, Nash Atrium]
-////
+*Time:* Saturday-Sunday, 18th-19th May 2024 +
+
+*Place*: link:https://www.google.com/maps/place/930+Madison+Ave,+Memphis,+TN+38103/@35.1405526,-90.0321798,17z/data=!3m1!4b1!4m6!3m5!1s0x87d57e65083437ab:0x975bb3c7cbb47cf0!8m2!3d35.1405526!4d-90.0296049!16s%2Fg%2F11c26jf2ws?entry=ttu[930 Madison Ave, Freeman Auditorium at the Hamilton Eye Institute]
 
 [options="header", cols="2,1,2,4"]
 |===
@@ -262,8 +219,9 @@ link:https://goo.gl/maps/tLySYa8zdLsUhE2C6[875 Monroe Ave, Mooney Building, Nash
 
 === Conference
 
-*Time:* Monday, May 20, 2024 +
-*Place:* TBD
+*Time:* Monday, 20 May 2024 +
+
+*Place*: link:https://www.google.com/maps/place/930+Madison+Ave,+Memphis,+TN+38103/@35.1405526,-90.0321798,17z/data=!3m1!4b1!4m6!3m5!1s0x87d57e65083437ab:0x975bb3c7cbb47cf0!8m2!3d35.1405526!4d-90.0296049!16s%2Fg%2F11c26jf2ws?entry=ttu[930 Madison Ave, Freeman Auditorium at the Hamilton Eye Institute]
 
 [options="header", cols="2,2,5,2"]
 |===
@@ -286,6 +244,10 @@ link:https://goo.gl/maps/tLySYa8zdLsUhE2C6[875 Monroe Ave, Mooney Building, Nash
 |===
 
 === Biohackathon
+
+*Time:* Tuesday-Wednesday, 21st-22nd May 2024 +
+
+*Place:* link:https://maps.app.goo.gl/QpQgUyRyjzjxP1vM9[Room 101, UTHSC Translational Research Science Building]
 
 TBD
 
