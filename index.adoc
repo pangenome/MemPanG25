@@ -154,15 +154,13 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/Flavia95[GitHub
 
 === Conference Invited speakers
 
-TBD
-////
-- link:https://scholar.google.com/citations?user=jfexpLUAAAAJ&hl=en[Zhigui Bao]
-- link:https://scholar.google.com/citations?hl=en&user=XzUOb7IAAAAJ[Arang Rhie]
-- link:https://scholar.google.com/citations?user=t0Sk55AAAAAJ&hl=en&oi=ao[Scott Edwards]
-- link:https://scholar.google.com/citations?hl=en&user=wpPBcf4AAAAJ&view_op=list_works&sortby=pubdate[Christina Boucher]
-- link:https://scholar.google.com/citations?user=z2edTLkAAAAJ&hl=en[Joep de Ligt]
-- link:https://scholar.google.com/citations?user=yp4X1F8AAAAJ&hl=en&oi=ao[Peter Sudmant]
-////
+- link:https://scholar.google.com/citations?user=C0AkpcEAAAAJ&hl=en[Mohab Helmy]
+- link:https://scholar.google.ch/citations?hl=en&user=yM9CokEAAAAJ[Ragnar Groot Koerkamp]
+- link:https://scholar.google.com.co/citations?user=fPvbfBUAAAAJ&hl=no[Yifan Li]
+- link:https://scholar.google.com/citations?user=Bq50aCUAAAAJ&hl=en[Adrian Sampson]
+- link:https://scholar.google.com/citations?user=UZLC4TYAAAAJ&hl=en[Giulia Guidi]
+- link:https://scholar.google.com/citations?user=HyOMCyUAAAAJ&hl=en[Brandi Cantarel]
+- link:https://aruni.systemreboot.net[Arun Isaac]
 
 '''
 
@@ -229,17 +227,17 @@ College of Medicine, Department of Pediatrics
 
 || 09:20 - 09:30 | Conference Opening | TBD
 
-|link:https://andreaguarracino.github.io/[Andrea Guarracino] | 09:30 - 10:00 | TBD | TBD
-|| 10:00 - 10:30 | TBD | TBD
+|link:https://andreaguarracino.github.io/[Andrea Guarracino] | 09:30 - 10:00 | Counting K-mers on distributed memory efficiently with sorting and task-based parallelism | Yifan Li (VIRTUAL)
+|| 10:00 - 10:30 | Towards the Mouse Pangenome: Complete sequence representation of diverse mouse haplotypes and genes | Mohab Helmy (VIRTUAL)
 || 10:30 - 11:00 | Coffee break |
 
-|link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos] | 11:00 - 11:30 | TBD | TBD
-|| 11:30 - 12:00 | TBD  | TBD
-|| 12:00 - 12:30 | TBD  | TBD
+|link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos] | 11:00 - 11:30 | Toward Hardware-Accelerated Pangenome Analyses | Adrian Sampson
+|| 11:30 - 12:00 | Scalability and Productivity in Genomics on Massively Parallel Systems | Giulia Guidi
+|| 12:00 - 12:30 | A*PA & A*PA2: Up to 20 times faster exact global alignment | Ragnar Groot Koerkamp
 || 12:30 - 14:00 | Lunch |
 
-|link:https://github.com/Flavia95[Flavia Villani] | 14:00 - 14:30 | TBD | TBD
-|| 14:30 - 15:00 | TBD | TBD
+|link:https://github.com/Flavia95[Flavia Villani] | 14:00 - 14:30 | Restoration of Ancient Genomes with the PanGenome: The good, the bad and the ugly | Brandi Cantarel
+|| 14:30 - 15:00 | GWAS on an Arabidopsis MAGIC pangenome | Arun Isaac
 
 || 15:00 - 15:10 | Conference Closing | TBD
 |===
