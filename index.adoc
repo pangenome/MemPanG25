@@ -250,7 +250,29 @@ College of Medicine, Department of Pediatrics
 
 *Place:* link:https://maps.app.goo.gl/QpQgUyRyjzjxP1vM9[Room 101, UTHSC Translational Research Science Building]
 
-TBD
+[options="header", cols="2,1,2,4"]
+|===
+|Day | Time | Speaker(s) | Topic
+
+|Tuesday, May 21, 2024 | 09:30-10:30 | Everyone | Hacking
+|| 10:30-11:00 | Everyone | Coffee break
+|| 11:00-12:30 | Everyone | Hacking
+|| *12:30-14:30* | *Everyone* | *Lunch (provided)*
+|| 14:30-15:30 | Everyone | Hacking
+|| 15:30-16:00 | Everyone | Coffee break
+|| 16:00-17:00 | Everyone | Hacking
+||  |  | 
+
+|Wednesday, May 22, 2024 | 09:30-10:30 | Everyone | Hacking
+|| 10:30-11:00 | Everyone | Coffee break
+|| 11:00-12:30 | Everyone | Hacking
+|| *12:30-14:30* | *Everyone* | *Lunch (provided)*
+|| 14:30-15:30 | Everyone | Hacking
+|| 15:30-16:00 | Everyone | Coffee break
+|| 16:00-17:00 | Everyone | Hacking
+||  |  | 
+|===
+
 
 == *Registration and Practical Information*
 
