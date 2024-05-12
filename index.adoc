@@ -200,7 +200,11 @@ College of Medicine, Department of Pediatrics
 || 15:30-16:00 | Everyone | Coffee break
 || 16:00-16:45 | Everyone | Practical
 || 16:45-17:00 | Everyone | Q&A, Day 1 Survey
+|===
 
+[options="header", cols="2,1,2,4"]
+|===
+|Day | Time | Speaker(s) | Topic
 |Sunday, May 19, 2024 | 09:30-10:00 | Everyone | Discussion about previous day activities
 || 10:00-10:30 | Everyone | Practical: Discussion about previous day activities
 || 10:30-11:00 | Everyone | Coffee break
@@ -258,7 +262,11 @@ College of Medicine, Department of Pediatrics
 || 14:30-15:30 | Everyone | Hacking
 || 15:30-16:00 | Everyone | Coffee break
 || 16:00-17:00 | Everyone | Hacking
+|===
 
+[options="header", cols="2,1,2,4"]
+|===
+|Day | Time | Speaker(s) | Topic
 |Wednesday, May 22, 2024 | 09:30-10:30 | Everyone | Hacking
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Hacking
