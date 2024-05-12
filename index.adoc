@@ -190,7 +190,7 @@ College of Medicine, Department of Pediatrics
 |===
 |Day | Time | Speaker(s) | Topic
 
-|Saturday, May 18, 2024 | 09:30-10:00  | link:http://hypervolu.me/~erik/erik_garrison.html[Erik Garrison] | Presentation Introduction to pangenomics
+|Saturday, May 18, 2024 | 09:30-10:00  | link:http://hypervolu.me/~erik/erik_garrison.html[Erik Garrison] | Presentation: Introduction to pangenomics
 || 10:00-10:30 | Everyone | Practical
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Practical
@@ -234,7 +234,7 @@ College of Medicine, Department of Pediatrics
 |link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos] | 11:00 - 11:30 | Toward Hardware-Accelerated Pangenome Analyses | Adrian Sampson
 || 11:30 - 12:00 | Scalability and Productivity in Genomics on Massively Parallel Systems | Giulia Guidi
 || 12:00 - 12:30 | A*PA & A*PA2: Up to 20 times faster exact global alignment | Ragnar Groot Koerkamp
-|| 12:30 - 14:00 | Lunch |
+|| *12:30 - 14:00* | *Lunch* |
 
 |link:https://github.com/Flavia95[Flavia Villani] | 14:00 - 14:30 | Restoration of Ancient Genomes with the PanGenome: The good, the bad and the ugly | Brandi Cantarel
 || 14:30 - 15:00 | GWAS on an Arabidopsis MAGIC pangenome | Arun Isaac
