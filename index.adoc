@@ -195,23 +195,22 @@ College of Medicine, Department of Pediatrics
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Practical
 || *12:30-14:00* | *Everyone* | *Lunch (provided)*
-|| 14:30-15:00 | link:https://andreaguarracino.github.io/[Andrea Guarracino] | Presentation: Understanding pangenomes
-|| 15:00-16:00 | Everyone | Practical
-|| 16:00-16:30 | Everyone | Coffee break
-|| 16:30-17:15 | Everyone | Practical
-|| 17:15-17:00 | Everyone | Q&A, Day 1 Survey
-||  |  | 
+|| 14:00-14:30 | link:https://andreaguarracino.github.io/[Andrea Guarracino] | Presentation: Understanding pangenomes
+|| 14:30-15:30 | Everyone | Practical
+|| 15:30-16:00 | Everyone | Coffee break
+|| 16:00-16:45 | Everyone | Practical
+|| 16:45-17:00 | Everyone | Q&A, Day 1 Survey
 
-|Sunday, May 19, 2024 | 09:30-10:00 | TBD | TBD
-|| 10:00-10:30 | Everyone | Practical: TBD
+|Sunday, May 19, 2024 | 09:30-10:00 | Everyone | Discussion about previous day activities
+|| 10:00-10:30 | Everyone | Practical: Discussion about previous day activities
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Practical: TBD
 || *12:30-14:00* | *Everyone* | *Lunch (provided)*
-|| 14:30-15:00 | link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos] | Presentation: pangenome openness, nf-co.re/pangenome
-|| 15:00-16:00 | Everyone | Practical: TBD
+|| 14:30-15:30 | link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos] | Presentation: pangenome openness, nf-co.re/pangenome
+|| 15:30-16:00 | Everyone | Practical: TBD
 || 16:00-16:30 | Everyone | Coffee break
-|| 16:30-17:15 | Everyone | Practical: TBD
-|| 17:15-17:00 | Everyone | Q&A, Day 2 Survey
+|| 16:00-16:45 | Everyone | Practical: TBD
+|| 16:45-17:00 | Everyone | Q&A, Day 2 Survey
 |===
 
 
