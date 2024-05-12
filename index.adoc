@@ -194,24 +194,24 @@ College of Medicine, Department of Pediatrics
 || 10:00-10:30 | Everyone | Practical
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Practical
-|| *12:30-14:30* | *Everyone* | *Lunch (provided)*
+|| *12:30-14:00* | *Everyone* | *Lunch (provided)*
 || 14:30-15:00 | link:https://andreaguarracino.github.io/[Andrea Guarracino] | Presentation: Understanding pangenomes
 || 15:00-16:00 | Everyone | Practical
 || 16:00-16:30 | Everyone | Coffee break
 || 16:30-17:15 | Everyone | Practical
-|| 17:15-17:30 | Everyone | Q&A, Day 1 Survey
+|| 17:15-17:00 | Everyone | Q&A, Day 1 Survey
 ||  |  | 
 
 |Sunday, May 19, 2024 | 09:30-10:00 | TBD | TBD
 || 10:00-10:30 | Everyone | Practical: TBD
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Practical: TBD
-|| *12:30-14:30* | *Everyone* | *Lunch (provided)*
+|| *12:30-14:00* | *Everyone* | *Lunch (provided)*
 || 14:30-15:00 | link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos] | Presentation: pangenome openness, nf-co.re/pangenome
 || 15:00-16:00 | Everyone | Practical: TBD
 || 16:00-16:30 | Everyone | Coffee break
 || 16:30-17:15 | Everyone | Practical: TBD
-|| 17:15-17:30 | Everyone | Q&A, Day 2 Survey
+|| 17:15-17:00 | Everyone | Q&A, Day 2 Survey
 |===
 
 
@@ -259,7 +259,6 @@ College of Medicine, Department of Pediatrics
 || 14:30-15:30 | Everyone | Hacking
 || 15:30-16:00 | Everyone | Coffee break
 || 16:00-17:00 | Everyone | Hacking
-||  |  | 
 
 |Wednesday, May 22, 2024 | 09:30-10:30 | Everyone | Hacking
 || 10:30-11:00 | Everyone | Coffee break
@@ -268,7 +267,6 @@ College of Medicine, Department of Pediatrics
 || 14:30-15:30 | Everyone | Hacking
 || 15:30-16:00 | Everyone | Coffee break
 || 16:00-17:00 | Everyone | Hacking
-||  |  | 
 |===
 
 
