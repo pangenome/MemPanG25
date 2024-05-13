@@ -258,7 +258,7 @@ College of Medicine, Department of Pediatrics
 |Tuesday, May 21, 2024 | 09:30-10:30 | Everyone | Hacking
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Hacking
-|| *12:30-14:30* | *Everyone* | *Lunch (provided)*
+|| *12:30-14:30* | *Everyone* | *Lunch*
 || 14:30-15:30 | Everyone | Hacking
 || 15:30-16:00 | Everyone | Coffee break
 || 16:00-17:00 | Everyone | Hacking
@@ -270,7 +270,7 @@ College of Medicine, Department of Pediatrics
 |Wednesday, May 22, 2024 | 09:30-10:30 | Everyone | Hacking
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Hacking
-|| *12:30-14:30* | *Everyone* | *Lunch (provided)*
+|| *12:30-14:30* | *Everyone* | *Lunch*
 || 14:30-15:30 | Everyone | Hacking
 || 15:30-16:00 | Everyone | Coffee break
 || 16:00-17:00 | Everyone | Hacking
