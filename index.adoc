@@ -208,12 +208,12 @@ College of Medicine, Department of Pediatrics
 |Sunday, May 19, 2024 | 09:30-10:00 | Everyone | Discussion about previous day activities
 || 10:00-10:30 | Everyone | Practical: Discussion about previous day activities
 || 10:30-11:00 | Everyone | Coffee break
-|| 11:00-12:30 | Everyone | Practical: TBD
+|| 11:00-12:30 | Everyone | Practical: Sequence partitioning and yeast pangenome
 || *12:30-14:00* | *Everyone* | *Lunch (provided)*
 || 14:30-15:30 | link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos] | Presentation: pangenome openness, nf-co.re/pangenome
-|| 15:30-16:00 | Everyone | Practical: TBD
+|| 15:30-16:00 | Everyone | Practical: nf-core/pangenome
 || 16:00-16:30 | Everyone | Coffee break
-|| 16:00-16:45 | Everyone | Practical: TBD
+|| 16:00-16:45 | Everyone | Practical: Pangenome growth
 || 16:45-17:00 | Everyone | Q&A, Day 2 Survey
 |===
 
