@@ -171,6 +171,7 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/Flavia95[GitHub
 - link:https://github.com/Flavia95[Flavia Villani], University of Tennessee Health Science Center, Memphis, TN, US
 - link:https://thebird.nl/[Pjotr Prins], University of Tennessee Health Science Center, Memphis, TN, US
 - link:https://www.uthsc.edu/faculty/profile/?netid=vcolonna[Vincenza Colonna], University of Tennessee Health Science Center, Memphis, TN, US
+- link:https://uthsc.edu/search/detail.php?id=T100344325[Tamara Brock], University of Tennessee Health Science Center, Memphis, TN, US
 
 image:images/UTHSC.png[uthsc,300]
 
@@ -230,8 +231,8 @@ College of Medicine, Department of Pediatrics
 
 || 09:20 - 09:30 | Conference Opening | TBD
 
-|link:https://andreaguarracino.github.io/[Andrea Guarracino] | 09:30 - 10:00 | Counting K-mers on distributed memory efficiently with sorting and task-based parallelism | Yifan Li (VIRTUAL)
-|| 10:00 - 10:30 | Towards the Mouse Pangenome: Complete sequence representation of diverse mouse haplotypes and genes | Mohab Helmy (VIRTUAL)
+|link:https://andreaguarracino.github.io/[Andrea Guarracino] | 09:30 - 10:00 | Counting K-mers on distributed memory efficiently with sorting and task-based parallelism | Yifan Li (*VIRTUAL*)
+|| 10:00 - 10:30 | Towards the Mouse Pangenome: Complete sequence representation of diverse mouse haplotypes and genes | Mohab Helmy (*VIRTUAL*)
 || 10:30 - 11:00 | Coffee break |
 
 |link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos] | 11:00 - 11:30 | Toward Hardware-Accelerated Pangenome Analyses | Adrian Sampson
