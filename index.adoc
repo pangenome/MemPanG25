@@ -177,8 +177,6 @@ image:images/UTHSC.png[uthsc,300]
 
 University of Tennessee Health Science Center, Department of Genetics, Genomics and Informatics
 
-College of Medicine, Department of Pediatrics
-
 == *Program*
 
 === Practical course / Workshop
