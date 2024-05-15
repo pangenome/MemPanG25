@@ -207,14 +207,14 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 |===
 |Day | Time | Speaker(s) | Topic
 |Sunday, May 19, 2024 | 09:30-10:00 | Everyone | Discussion about previous day activities
-|| 10:00-10:30 | Everyone | Practical: Discussion about previous day activities
+|| 10:00-10:30 | link:https://andreaguarracino.github.io/[Andrea Guarracino] | Presentation: Heterologous recombination in the human pangenome
 || 10:30-11:00 | Everyone | Coffee break
-|| 11:00-12:30 | Everyone | Practical: Sequence partitioning and yeast pangenome
+|| 11:00-12:30 | Everyone | Practical
 || *12:30-14:00* | *Everyone* | *Lunch (provided)*
 || 14:30-15:30 | link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos] | Presentation: nf-core/pangenome, pangenome growth
-|| 15:30-16:00 | Everyone | Practical: nf-core/pangenome
+|| 15:30-16:00 | Everyone | Practical
 || 16:00-16:30 | Everyone | Coffee break
-|| 16:00-16:45 | Everyone | Practical: Pangenome growth
+|| 16:00-16:45 | Everyone | Practical
 || 16:45-17:00 | Everyone | Q&A, Day 2 Survey
 |===
 
@@ -243,7 +243,7 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 |link:https://github.com/Flavia95[Flavia Villani] | 14:00 - 14:30 | Restoration of Ancient Genomes with the PanGenome: The good, the bad and the ugly | Brandi Cantarel
 || 14:30 - 15:00 | GWAS on an Arabidopsis MAGIC pangenome | Arun Isaac
 
-|| 15:00 - 15:10 | Conference Closing | TBD
+|| 15:00 - 15:10 | Conference Closing | Vincenza Colonna
 |===
 
 === Biohackathon
