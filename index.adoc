@@ -158,7 +158,7 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/Flavia95[GitHub
 
 - link:https://scholar.google.com/citations?user=C0AkpcEAAAAJ&hl=en[Mohab Helmy]
 - link:https://scholar.google.ch/citations?hl=en&user=yM9CokEAAAAJ[Ragnar Groot Koerkamp]
-- link:https://scholar.google.com.co/citations?user=fPvbfBUAAAAJ&hl=no[Yifan Li]
+- link:https://l.iyi.fan/[Yifan Li]
 - link:https://scholar.google.com/citations?user=Bq50aCUAAAAJ&hl=en[Adrian Sampson]
 - link:https://scholar.google.com/citations?user=UZLC4TYAAAAJ&hl=en[Giulia Guidi]
 - link:https://scholar.google.com/citations?user=HyOMCyUAAAAJ&hl=en[Brandi Cantarel]
