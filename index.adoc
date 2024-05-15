@@ -229,7 +229,7 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 |===
 |Chair | Time | Talk | Speaker
 
-|| 09:20 - 09:30 | Conference Opening | TBD
+|| 09:20 - 09:30 | Conference Opening | Erik Garrison
 
 |link:https://andreaguarracino.github.io/[Andrea Guarracino] | 09:30 - 10:00 | Counting K-mers on distributed memory efficiently with sorting and task-based parallelism | Yifan Li (*VIRTUAL*)
 || 10:00 - 10:30 | Towards the Mouse Pangenome: Complete sequence representation of diverse mouse haplotypes and genes | Mohab Helmy (*VIRTUAL*)
