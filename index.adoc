@@ -211,8 +211,8 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Practical
 || *12:30-14:00* | *Everyone* | *Lunch (provided)*
-|| 14:30-15:30 | link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos] | Presentation: nf-core/pangenome, pangenome growth
-|| 15:30-16:00 | Everyone | Practical
+|| 14:00-14:30 | link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos] | Presentation: nf-core/pangenome, pangenome growth
+|| 14:30-16:00 | Everyone | Practical
 || 16:00-16:30 | Everyone | Coffee break
 || 16:00-16:45 | Everyone | Practical
 || 16:45-17:00 | Everyone | Q&A, Day 2 Survey
