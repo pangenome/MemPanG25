@@ -1,6 +1,6 @@
-= *MemPanG24*
+= *MemPanG25*
 :figure-caption!:
-:toc-title: MemPanG24
+:toc-title: MemPanG25
 :toc: left
 :toclevels: 2
 
@@ -12,27 +12,27 @@ image::images/bridge.png[400]
 
 == *Important Dates*
 
-- Practical course/Conference/Biohackathon Registration Deadline: *13th April 2024*
-- Selected Participant will be notified by: *22nd April 2024*
-- Payment Deadline: *4th May 2024*
-- Practical course / Workshop: *18th-19th May 2024*
-- Conference: *20th May 2024*
-- Biohackathon: *21st-22nd May 2024*
+- Practical course/Conference/Biohackathon Registration Deadline: *1st April 2025*
+- Selected Participant will be notified by: *15th April 2025*
+- Payment Deadline: *6th May 2025*
+- Practical course / Workshop: *12nd-13rd May 2025*
+- Conference: *14th May 2025*
+- Biohackathon: *15th-16th May 2025*
 ////
-== *OPEN CALL FOR SPEAKERS - MemPanG24*
+== *OPEN CALL FOR SPEAKERS - MemPanG25*
 
-We are thrilled to announce an open invitation to experts and enthusiasts in the field of pangenome research to be a part of our upcoming MemPanG24.
-This significant event is scheduled for May 20th, 2024, and aims to delve into the multifaceted world of pangenome research.
-The submission deadline for talk proposals is *April 20th, 2024*.
+We are thrilled to announce an open invitation to experts and enthusiasts in the field of pangenome research to be a part of our upcoming MemPanG25.
+This significant event is scheduled for May 14th, 2025, and aims to delve into the multifaceted world of pangenome research.
+The submission deadline for talk proposals is *April 15th, 2025*.
 
 *Focus Areas:* Our conference will cover a broad range of topics, including but not limited to, methods in pangenome research, genome assembly, data visualization, artificial intelligence (AI), and collaborative projects.
 
 *Diverse Perspectives:* We are looking for speakers who can provide insights from different species contexts and who can discuss topics that lie at the intersection of pangenome methods and biology. We are particularly interested in hearing about your unique work and perspectives in pangenome research.
 
-*Duration:* Each talk should be approximately 20-25 minutes, followed by a Q&A session, amounting to a total of 30 minutes.
+*Duration:* Each talk should be approximately 20 minutes, followed by a Q&A session, amounting to a total of 25 minutes.
 
 *Submission:* We kindly request you to https://docs.google.com/forms/d/e/1FAIpQLSe2mnJ_kZm_I2j5lIBoLGL-hLW4mxzHpphvWomLbsul4C8goA/viewform?usp=sf_link[forward the title and abstract of your talk] upon confirmation of your participation.
-You can see abstract examples at https://pangenome.github.io/MemPanG24/abstract_examples.html.
+You can see abstract examples at https://pangenome.github.io/MemPanG25/abstract_examples.html.
 
 *Location:* The event will be held in Memphis.
 
@@ -40,7 +40,7 @@ You can see abstract examples at https://pangenome.github.io/MemPanG24/abstract_
 
 Let's make this a fun day!
 
-MemPanG24 organizers
+MemPanG25 organizers
 ////
 == *Venues*
 
@@ -83,7 +83,7 @@ If you stay in Downtown, the Medical District, South City, or New Chicago, you c
 
 == *About the Practical Course / Workshop*
 
-*Saturday, May 18, 2024 - Sunday, May 19, 2024* +
+*Monday, May 12, 2025 - Tuesday, May 13, 2025* +
 The use of a single reference genome in bioinformatics can lead to reference bias and miss important information about genome variability and relationships. New assembly methods have made it easier to generate high-quality complete genome assemblies, and using a pangenome graph that expresses many genomes and their mutual alignment can help address these issues.
 This practical course / workshop will focus on building such graphs from whole genome assemblies and using them in various downstream applications in comparative genomics, evolution, variation analysis, sequence alignment, and phenotype association.
 
@@ -92,7 +92,7 @@ By the end of the practical course / workshop, participants will have a strong u
 
 == *About the Conference*
 
-*Monday, May 20, 2024* +
+*Wednesday, May 14, 2025* +
 We will gather for an in-person conference on the day after the practical course / workshop.
 This will bring together practical course / workshop participants and virtual and in-person speakers who are actively working on diverse aspects of pangenome research.
 The virtual meeting will be open to the public.
@@ -101,7 +101,7 @@ We expect to draw speakers from a diverse set of species contexts.
 
 == *About the Biohackathon*
 
-*Tuesday, May 21, 2024 - Wednesday, May 22, 2024* +
+*Thursday, May 15, 2025 - Friday, May 16, 2025* +
 
 We have a focus on software.
 We will work with/on pangenomic tools (such as link:https://github.com/pangenome/pggb/[PGGB], link:https://github.com/waveygang/wfmash/[WFMASH], link:https://github.com/ekg/seqwish/[SEQWISH], link:https://github.com/pangenome/odgi/[ODGI], link:https://github.com/pangenome/smoothxg/[SMOOTHXG], link:https://github.com/vgteam/vg[VG], link:https://github.com/vcflib/vcflib/[VCFLIB], link:https://github.com/genetics-statistics/GEMMA/[GEMMA]) with software project leadership.
@@ -111,6 +111,10 @@ We will work with/on pangenomic tools (such as link:https://github.com/pangenome
 
 === Practical Course / Workshop Instructors
 
+TBD
+
+////
+
 ==== Erik Garrison - Assistant Professor
 
 .[purple]#University of Tennessee Health Science Center, Memphis, TN, US#
@@ -118,8 +122,6 @@ We will work with/on pangenomic tools (such as link:https://github.com/pangenome
 image:images/erik.jpeg[erik,200,role="right"] Genomicist with a quantitative social science background. I build methods that let us understand the precise relationships between thousands of genomes. In these, the genome is encoded in a graph that may represent a population sample of individuals from the same species, a metagenome, the diploid genome of a single individual, or any other useful collection of sequences.
 
 image:images/Octicons-mark-github.svg[git,30] https://github.com/ekg[GitHub]
-
-'''
 
 ==== Andrea Guarracino - Postdoctoral Scholar
 
@@ -143,7 +145,13 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/subwaystation[G
 
 '''
 
+////
+
 === Practical Course Helpers
+
+TBD
+
+////
 
 ==== Flavia Villani - PhD student
 
@@ -154,7 +162,13 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/Flavia95[GitHub
 
 '''
 
+////
+
 === Conference Invited speakers
+
+TBD
+
+////
 
 - link:https://scholar.google.com/citations?user=C0AkpcEAAAAJ&hl=en[Mohab Helmy]
 - link:https://scholar.google.ch/citations?hl=en&user=yM9CokEAAAAJ[Ragnar Groot Koerkamp]
@@ -163,6 +177,8 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/Flavia95[GitHub
 - link:https://scholar.google.com/citations?user=UZLC4TYAAAAJ&hl=en[Giulia Guidi]
 - link:https://scholar.google.com/citations?user=HyOMCyUAAAAJ&hl=en[Brandi Cantarel]
 - link:https://aruni.systemreboot.net[Arun Isaac]
+
+////
 
 '''
 
@@ -183,15 +199,19 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 
 === Practical course / Workshop
 
-*Time:* Saturday-Sunday, 18th-19th May 2024 +
+*Time:* Monday-Tuesday, 12nd-13rd May 2025 +
 
 *Place*: link:https://www.google.com/maps/place/930+Madison+Ave,+Memphis,+TN+38103/@35.1405526,-90.0321798,17z/data=!3m1!4b1!4m6!3m5!1s0x87d57e65083437ab:0x975bb3c7cbb47cf0!8m2!3d35.1405526!4d-90.0296049!16s%2Fg%2F11c26jf2ws?entry=ttu[930 Madison Ave, Freeman Auditorium at the Hamilton Eye Institute, 3rd floor]
+
+TBD
+
+////
 
 [options="header", cols="2,1,2,4"]
 |===
 |Day | Time | Speaker(s) | Topic
 
-|Saturday, May 18, 2024 | 09:30-10:00  | link:http://hypervolu.me/~erik/erik_garrison.html[Erik Garrison] | Presentation: Introduction to pangenomics
+|Monday, May 12, 2025 | 09:30-10:00  | link:http://hypervolu.me/~erik/erik_garrison.html[Erik Garrison] | Presentation: Introduction to pangenomics
 || 10:00-10:30 | Everyone | Practical
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Practical
@@ -206,7 +226,7 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 [options="header", cols="2,1,2,4"]
 |===
 |Day | Time | Speaker(s) | Topic
-|Sunday, May 19, 2024 | 09:30-10:00 | Everyone | Discussion about previous day activities
+|Tuesday, May 13, 2025 | 09:30-10:00 | Everyone | Discussion about previous day activities
 || 10:00-10:30 | link:https://andreaguarracino.github.io/[Andrea Guarracino] | Presentation: Heterologous recombination in the human pangenome
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Practical
@@ -218,10 +238,15 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 || 16:45-17:00 | Everyone | Q&A, Day 2 Survey
 |===
 
+////
 
 === Conference
 
-*Time:* Monday, 20 May 2024 +
+*Time:* Wednesday, 14 May 2025 +
+
+TBD
+
+////
 
 *Place*: link:https://www.google.com/maps/place/930+Madison+Ave,+Memphis,+TN+38103/@35.1405526,-90.0321798,17z/data=!3m1!4b1!4m6!3m5!1s0x87d57e65083437ab:0x975bb3c7cbb47cf0!8m2!3d35.1405526!4d-90.0296049!16s%2Fg%2F11c26jf2ws?entry=ttu[930 Madison Ave, Freeman Auditorium at the Hamilton Eye Institutee, 3rd floor]
 
@@ -246,9 +271,11 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 || 15:00 - 15:10 | Conference Closing | Vincenza Colonna
 |===
 
+////
+
 === Biohackathon
 
-*Time:* Tuesday-Wednesday, 21st-22nd May 2024 +
+*Time:* Thursday-Friday, 15th-16th May 2025 +
 
 *Place:* link:https://maps.app.goo.gl/QpQgUyRyjzjxP1vM9[Room 101, UTHSC Translational Research Science Building]
 
@@ -256,7 +283,7 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 |===
 |Day | Time | Speaker(s) | Topic
 
-|Tuesday, May 21, 2024 | 09:30-10:30 | Everyone | Hacking
+|Thursday, May 15, 2025 | 09:30-10:30 | Everyone | Hacking
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Hacking
 || *12:30-14:30* | *Everyone* | *Lunch*
@@ -268,7 +295,7 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 [options="header", cols="2,1,2,4"]
 |===
 |Day | Time | Speaker(s) | Topic
-|Wednesday, May 22, 2024 | 09:30-10:30 | Everyone | Hacking
+|Thursday, May 16, 2025 | 09:30-10:30 | Everyone | Hacking
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Hacking
 || *12:30-14:30* | *Everyone* | *Lunch*
@@ -280,14 +307,14 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 
 == *Registration and Practical Information*
 
-*Conference pre-registration for speakers:* ended
-////
-https://docs.google.com/forms/d/e/1FAIpQLSe2mnJ_kZm_I2j5lIBoLGL-hLW4mxzHpphvWomLbsul4C8goA/viewform?usp=sf_link
 ////
 
+*Conference pre-registration for speakers:* ended
+https://docs.google.com/forms/d/e/1FAIpQLSe2mnJ_kZm_I2j5lIBoLGL-hLW4mxzHpphvWomLbsul4C8goA/viewform?usp=sf_link
+
 *Registration for event attendees:* ended
-////
 https://docs.google.com/forms/d/e/1FAIpQLSc1E3dJneGxCQrYOM8OOYkZhfH6OxLaGMJd654Cjt3pReyINA/viewform?usp=sf_link
+
 ////
 
 Registration includes access to: all lectures and practical sessions, all course materials.
@@ -326,4 +353,4 @@ https://www.memphistravel.com/sports-outdoors?gclid=Cj0KCQiAgOefBhDgARIsAMhqXA4G
 
 == *Contact*
 
-- mailto:genetics@uthsc.edu[genetics@uthsc.edu]
+- mailto:aguarra1@uthsc.edu[aguarra1@uthsc.edu]
