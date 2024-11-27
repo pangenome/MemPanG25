@@ -14,10 +14,10 @@ image::images/bridge.png[400]
 
 - Practical course/Conference/Biohackathon Registration Deadline: *1st April 2025*
 - Selected Participant will be notified by: *15th April 2025*
-- Payment Deadline: *6th May 2025*
-- Practical course / Workshop: *12nd-13rd May 2025*
-- Conference: *14th May 2025*
-- Biohackathon: *15th-16th May 2025*
+- Payment Deadline: *29th April 2025*
+- Practical course / Workshop: *XX-YY May 2025*
+- Conference: *XX May 2025*
+- Biohackathon: *XX-YY May 2025*
 ////
 == *OPEN CALL FOR SPEAKERS - MemPanG25*
 
