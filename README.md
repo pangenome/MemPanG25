@@ -1,4 +1,4 @@
-# MemPanG24
+# MemPanG25
 Computational pangenomics course, conference, and biohackathon in Memphis, TN.
 
-### Website: [https://pangenome.github.io/MemPanG24/](https://pangenome.github.io/MemPanG24/)
+### Website: [https://pangenome.github.io/MemPanG25/](https://pangenome.github.io/MemPanG25/)
