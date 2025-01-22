@@ -14,10 +14,10 @@ image::images/bridge.png[400]
 
 - Practical course/Conference/Biohackathon Registration Deadline: *1st April 2025*
 - Selected Participant will be notified by: *15th April 2025*
-- Payment Deadline: *29th April 2025*
-- Practical course / Workshop: *XX-YY May 2025*
-- Conference: *XX May 2025*
-- Biohackathon: *XX-YY May 2025*
+- Payment Deadline: *6th May 2025*
+- Practical course / Workshop: *11th-12th May 2025*
+- Conference: *13th May 2025*
+- Biohackathon: *14th-15th May 2025*
 ////
 == *OPEN CALL FOR SPEAKERS - MemPanG25*
 
@@ -83,7 +83,7 @@ If you stay in Downtown, the Medical District, South City, or New Chicago, you c
 
 == *About the Practical Course / Workshop*
 
-*Monday, May 12, 2025 - Tuesday, May 13, 2025* +
+*Sunday, May 11, 2025 - Monday, May 12, 2025* +
 The use of a single reference genome in bioinformatics can lead to reference bias and miss important information about genome variability and relationships. New assembly methods have made it easier to generate high-quality complete genome assemblies, and using a pangenome graph that expresses many genomes and their mutual alignment can help address these issues.
 This practical course / workshop will focus on building such graphs from whole genome assemblies and using them in various downstream applications in comparative genomics, evolution, variation analysis, sequence alignment, and phenotype association.
 
@@ -92,7 +92,7 @@ By the end of the practical course / workshop, participants will have a strong u
 
 == *About the Conference*
 
-*Wednesday, May 14, 2025* +
+*Tuesday, May 13, 2025* +
 We will gather for an in-person conference on the day after the practical course / workshop.
 This will bring together practical course / workshop participants and virtual and in-person speakers who are actively working on diverse aspects of pangenome research.
 The virtual meeting will be open to the public.
@@ -101,7 +101,7 @@ We expect to draw speakers from a diverse set of species contexts.
 
 == *About the Biohackathon*
 
-*Thursday, May 15, 2025 - Friday, May 16, 2025* +
+*Wednesday, May 14, 2025 - Thursday, May 15, 2025* +
 
 We have a focus on software.
 We will work with/on pangenomic tools (such as link:https://github.com/pangenome/pggb/[PGGB], link:https://github.com/waveygang/wfmash/[WFMASH], link:https://github.com/ekg/seqwish/[SEQWISH], link:https://github.com/pangenome/odgi/[ODGI], link:https://github.com/pangenome/smoothxg/[SMOOTHXG], link:https://github.com/vgteam/vg[VG], link:https://github.com/vcflib/vcflib/[VCFLIB], link:https://github.com/genetics-statistics/GEMMA/[GEMMA]) with software project leadership.
