@@ -199,7 +199,7 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 
 === Practical course / Workshop
 
-*Time:* Monday-Tuesday, 12nd-13rd May 2025 +
+*Time:* Sunday-Monday, 11th-12th May 2025 +
 
 *Place*: link:https://www.google.com/maps/place/930+Madison+Ave,+Memphis,+TN+38103/@35.1405526,-90.0321798,17z/data=!3m1!4b1!4m6!3m5!1s0x87d57e65083437ab:0x975bb3c7cbb47cf0!8m2!3d35.1405526!4d-90.0296049!16s%2Fg%2F11c26jf2ws?entry=ttu[930 Madison Ave, Freeman Auditorium at the Hamilton Eye Institute, 3rd floor]
 
@@ -211,7 +211,7 @@ TBD
 |===
 |Day | Time | Speaker(s) | Topic
 
-|Monday, May 12, 2025 | 09:30-10:00  | link:http://hypervolu.me/~erik/erik_garrison.html[Erik Garrison] | Presentation: Introduction to pangenomics
+|Sunday, May 11, 2025 | 09:30-10:00  | link:http://hypervolu.me/~erik/erik_garrison.html[Erik Garrison] | Presentation: Introduction to pangenomics
 || 10:00-10:30 | Everyone | Practical
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Practical
@@ -226,7 +226,7 @@ TBD
 [options="header", cols="2,1,2,4"]
 |===
 |Day | Time | Speaker(s) | Topic
-|Tuesday, May 13, 2025 | 09:30-10:00 | Everyone | Discussion about previous day activities
+|Monday, May 12, 2025 | 09:30-10:00 | Everyone | Discussion about previous day activities
 || 10:00-10:30 | link:https://andreaguarracino.github.io/[Andrea Guarracino] | Presentation: Heterologous recombination in the human pangenome
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Practical
@@ -242,7 +242,7 @@ TBD
 
 === Conference
 
-*Time:* Wednesday, 14 May 2025 +
+*Time:* Tuesday, 13 May 2025 +
 
 TBD
 
@@ -275,7 +275,7 @@ TBD
 
 === Biohackathon
 
-*Time:* Thursday-Friday, 15th-16th May 2025 +
+*Time:* Wednesday-Thursday, 14th-15th May 2025 +
 
 *Place:* link:https://maps.app.goo.gl/QpQgUyRyjzjxP1vM9[Room 101, UTHSC Translational Research Science Building]
 
@@ -283,7 +283,7 @@ TBD
 |===
 |Day | Time | Speaker(s) | Topic
 
-|Thursday, May 15, 2025 | 09:30-10:30 | Everyone | Hacking
+|Wednesday, May 14, 2025 | 09:30-10:30 | Everyone | Hacking
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Hacking
 || *12:30-14:30* | *Everyone* | *Lunch*
@@ -295,7 +295,7 @@ TBD
 [options="header", cols="2,1,2,4"]
 |===
 |Day | Time | Speaker(s) | Topic
-|Friday, May 16, 2025 | 09:30-10:30 | Everyone | Hacking
+|Thursday, May 15, 2025 | 09:30-10:30 | Everyone | Hacking
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Hacking
 || *12:30-14:30* | *Everyone* | *Lunch*
