@@ -203,20 +203,16 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 
 *Place*: link:https://www.google.com/maps/place/930+Madison+Ave,+Memphis,+TN+38103/@35.1405526,-90.0321798,17z/data=!3m1!4b1!4m6!3m5!1s0x87d57e65083437ab:0x975bb3c7cbb47cf0!8m2!3d35.1405526!4d-90.0296049!16s%2Fg%2F11c26jf2ws?entry=ttu[930 Madison Ave, Freeman Auditorium at the Hamilton Eye Institute, 3rd floor]
 
-TBD
-
-////
-
 [options="header", cols="2,1,2,4"]
 |===
 |Day | Time | Speaker(s) | Topic
 
-|Sunday, May 11, 2025 | 09:30-10:00  | link:http://hypervolu.me/~erik/erik_garrison.html[Erik Garrison] | Presentation: Introduction to pangenomics
+|Sunday, May 11, 2025 | 09:30-10:00  | TDB | Presentation: Introduction to pangenomics
 || 10:00-10:30 | Everyone | Practical
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Practical
 || *12:30-14:00* | *Everyone* | *Lunch (provided)*
-|| 14:00-14:30 | link:https://andreaguarracino.github.io/[Andrea Guarracino] | Presentation: Understanding pangenomes
+|| 14:00-14:30 | TDB | Presentation: TDB
 || 14:30-15:30 | Everyone | Practical
 || 15:30-16:00 | Everyone | Coffee break
 || 16:00-16:45 | Everyone | Practical
@@ -227,18 +223,16 @@ TBD
 |===
 |Day | Time | Speaker(s) | Topic
 |Monday, May 12, 2025 | 09:30-10:00 | Everyone | Discussion about previous day activities
-|| 10:00-10:30 | link:https://andreaguarracino.github.io/[Andrea Guarracino] | Presentation: Heterologous recombination in the human pangenome
+|| 10:00-10:30 | TDB | Presentation: TDB
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Practical
 || *12:30-14:00* | *Everyone* | *Lunch (provided)*
-|| 14:00-14:30 | link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos] | Presentation: nf-core/pangenome, pangenome growth
+|| 14:00-14:30 | TDB | Presentation: TDB
 || 14:30-16:00 | Everyone | Practical
 || 16:00-16:30 | Everyone | Coffee break
 || 16:00-16:45 | Everyone | Practical
 || 16:45-17:00 | Everyone | Q&A, Day 2 Survey
 |===
-
-////
 
 === Conference
 
@@ -256,21 +250,21 @@ TBD
 |===
 |Chair | Time | Talk | Speaker
 
-|| 09:20 - 09:30 | Conference Opening | Erik Garrison
+|| 09:20 - 09:30 | Conference Opening | TDB
 
-|link:https://andreaguarracino.github.io/[Andrea Guarracino] | 09:30 - 10:00 | Counting K-mers on distributed memory efficiently with sorting and task-based parallelism | Yifan Li (*VIRTUAL*)
-|| 10:00 - 10:30 | Towards the Mouse Pangenome: Complete sequence representation of diverse mouse haplotypes and genes | Mohab Helmy (*VIRTUAL*)
+|link:https://TDB.github.io/[TDB TDB] | 09:30 - 10:00 | TDB | TDB
+|| 10:00 - 10:30 | TDB | TDB
 || 10:30 - 11:00 | Coffee break |
 
-|link:https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/[Simon Heumos] | 11:00 - 11:30 | Toward Hardware-Accelerated Pangenome Analyses | Adrian Sampson
-|| 11:30 - 12:00 | Scalability and Productivity in Genomics on Massively Parallel Systems | Giulia Guidi
-|| 12:00 - 12:30 | A*PA & A*PA2: Up to 20 times faster exact global alignment | Ragnar Groot Koerkamp
+|link:https://TDB[TDB TDB] | 11:00 - 11:30 | TDB | TDB
+|| 11:30 - 12:00 | TDB | TDB
+|| 12:00 - 12:30 | TDB | TDB
 || *12:30 - 14:00* | *Lunch* |
 
-|link:https://github.com/Flavia95[Flavia Villani] | 14:00 - 14:30 | Restoration of Ancient Genomes with the PanGenome: The good, the bad and the ugly | Brandi Cantarel
-|| 14:30 - 15:00 | GWAS on an Arabidopsis MAGIC pangenome | Arun Isaac
+|link:https://github.com/TDB[TDB TDB] | 14:00 - 14:30 | TDB | TDB
+|| 14:30 - 15:00 | TDB | TDB
 
-|| 15:00 - 15:10 | Conference Closing | Vincenza Colonna
+|| 15:00 - 15:10 | Conference Closing | TDB
 |===
 
 ////
