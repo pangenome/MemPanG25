@@ -190,6 +190,8 @@ TBD
 - link:https://thebird.nl/[Pjotr Prins], University of Tennessee Health Science Center, Memphis, TN, US
 - link:https://www.uthsc.edu/faculty/profile/?netid=vcolonna[Vincenza Colonna], University of Tennessee Health Science Center, Memphis, TN, US
 - link:https://uthsc.edu/search/detail.php?id=T100344325[Tamara Brock], University of Tennessee Health Science Center, Memphis, TN, US
+- link:https://aruni.systemreboot.net[Arun Isaac], University College London, London, UK
+- link:https://www.christinaboucher.com/[Christina Boucher], University of Florida, Gainesville, FL, US
 
 image:images/UTHSC.png[uthsc,300]
 
