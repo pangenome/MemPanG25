@@ -111,11 +111,8 @@ We will work with/on pangenomic tools (such as link:https://github.com/pangenome
 
 === Practical Course / Workshop Instructors
 
-TBD
 
-////
-
-==== Erik Garrison - Assistant Professor
+==== Erik Garrison - Associate Professor
 
 .[purple]#University of Tennessee Health Science Center, Memphis, TN, US#
 
@@ -129,7 +126,9 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/ekg[GitHub]
 
 image:images/andrea.jpeg[erik,200,role="right"]Computer (bio)scientist dedicated to developing and applying new methods to analyze ever-larger collections of sequences (also called "pangenomes") in the tree of life.
 
-image:images/Octicons-mark-github.svg[git,30] https://github.com/andreaguarracino[GitHub]
+image:images/Octicons-mark-github.svg[git,30] https://andreaguarracino.github.io/[Website]
+
+////
 
 '''
 
@@ -147,9 +146,31 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/subwaystation[G
 
 ////
 
-=== Practical Course Helpers
+'''
 
-TBD
+=== Helpers
+
+==== Jan-Niklas Schmelzle - PhD student
+
+.[purple]#ECE PhD Student, Cornell University, US#
+image:images/niklas.jpeg[niklas,200,role="right"]
+
++
++
++
+
+image:images/Octicons-mark-github.svg[git,30] https://scholar.google.com/citations?user=m_vTR7YAAAAJ&hl=en[Google Scholar]
+
+==== Arun Isaac - PhD student
+
+.[purple]#University College London, London, UK#
+image:images/arun.jpg[arun,200,role="right"]
+
++
++
++
+
+image:images/Octicons-mark-github.svg[git,30] https://aruni.systemreboot.net[Website]
 
 ////
 
@@ -297,9 +318,15 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 
 == *Registration and Practical Information*
 
+*CLOSED*
+
+////
+
 *Conference pre-registration for speakers:* https://docs.google.com/forms/d/e/1FAIpQLScqCwRYuMFyZceYa7skzXrZ5feg9Y5nfURVs_d_Ug7K_BY3pQ/viewform?usp=header
 
 *Registration for event attendees:* https://docs.google.com/forms/d/e/1FAIpQLScsS1eLIfaYFTmXpH8dUaGtWpud6HWEWKdStdahbMvuqiW9iQ/viewform?usp=header
+
+////
 
 Registration includes access to: all lectures and practical sessions, all course materials.
 
