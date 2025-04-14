@@ -161,7 +161,7 @@ image:images/niklas.jpeg[niklas,200,role="right"]
 
 image:images/Octicons-mark-github.svg[git,30] https://scholar.google.com/citations?user=m_vTR7YAAAAJ&hl=en[Google Scholar]
 
-==== Arun Isaac - PhD student
+==== Arun Isaac - Postdoctoral Scholar
 
 .[purple]#University College London, London, UK#
 image:images/arun.jpg[arun,200,role="right"]
