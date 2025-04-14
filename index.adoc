@@ -228,7 +228,7 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 
 [options="header", cols="2,1,2,4"]
 |===
-|Day | Time | Speaker | Topic
+|Day | Time | Speaker(s) | Topic
 
 |Sunday, May 11, 2025 | 09:30-10:00  | Andrea or Erik | Presentation: Introduction to pangenomics
 || 10:00-10:30 | Everyone | Practical: Build your first pangenome graphs
@@ -244,7 +244,7 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 
 [options="header", cols="2,1,2,4"]
 |===
-|Day | Time | Speaker | Topic
+|Day | Time | Speaker(s) | Topic
 |Monday, May 12, 2025 | 09:30-09:45 | Everyone | Discussion about previous day activities
 || 09:45-10:00 | Erik garrison | Presentation: Sequence partitioning
 || 10:00-10:30 | Everyone | Practical: Reference-guided partitioning
