@@ -228,33 +228,35 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 
 [options="header", cols="2,1,2,4"]
 |===
-|Day | Time | Speaker(s) | Topic
+|Day | Time | Speaker | Topic
 
-|Sunday, May 11, 2025 | 09:30-10:00  | TDB | Presentation: Introduction to pangenomics
-|| 10:00-10:30 | Everyone | Practical
+|Sunday, May 11, 2025 | 09:30-10:00  | Andrea Guarracino or Erik Garrison | Presentation: Introduction to pangenomics
+|| 10:00-10:30 | Everyone | Practical: Build your first pangenome graphs
 || 10:30-11:00 | Everyone | Coffee break
-|| 11:00-12:30 | Everyone | Practical
+|| 11:00-12:30 | Everyone | Practical: PGGB
 || *12:30-14:00* | *Everyone* | *Lunch (provided)*
-|| 14:00-14:30 | TDB | Presentation: TDB
-|| 14:30-15:30 | Everyone | Practical
+|| 14:00-14:30 | Andrea Guarracino | Presentation: Understanding pangenomes
+|| 14:30-15:30 | Everyone | Practical: ODGI commands
 || 15:30-16:00 | Everyone | Coffee break
-|| 16:00-16:45 | Everyone | Practical
-|| 16:45-17:00 | Everyone | Q&A, Day 1 Survey
+|| 16:00-16:45 | Everyone | Practical:  ODGI commands
+|| 16:55-17:00 | Everyone | Q&A, Day 1 Survey
 |===
 
 [options="header", cols="2,1,2,4"]
 |===
-|Day | Time | Speaker(s) | Topic
-|Monday, May 12, 2025 | 09:30-10:00 | Everyone | Discussion about previous day activities
-|| 10:00-10:30 | TDB | Presentation: TDB
+|Day | Time | Speaker | Topic
+|Monday, May 12, 2025 | 09:30-09:45 | Everyone | Discussion about previous day activities
+|| 09:45-10:00 | TDB | Presentation: Sequence partitioning
+|| 10:00-10:30 | Everyone | Practical: Reference-guided partitioning
 || 10:30-11:00 | Everyone | Coffee break
-|| 11:00-12:30 | Everyone | Practical
+|| 11:00-12:30 | Everyone | Practical: Reference-free partitioning
 || *12:30-14:00* | *Everyone* | *Lunch (provided)*
-|| 14:00-14:30 | TDB | Presentation: TDB
-|| 14:30-16:00 | Everyone | Practical
+|| 14:00-14:30 | Andrea Guarracino | Presentation: Implicit pangenomics and pangenome genotyping
+|| 14:30-16:00 | Everyone | Practical: Implicit pangenome graphs
 || 16:00-16:30 | Everyone | Coffee break
-|| 16:00-16:45 | Everyone | Practical
-|| 16:45-17:00 | Everyone | Q&A, Day 2 Survey
+|| 16:00-16:45 | Everyone | Practical: Pangenome-based genotyping
+|| 16:55-17:00 | Everyone | Q&A, Day 2 Survey
+|| 17:00-17:05 | TBD | Closure
 |===
 
 === Conference
