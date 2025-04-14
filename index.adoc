@@ -246,7 +246,7 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 |===
 |Day | Time | Speaker | Topic
 |Monday, May 12, 2025 | 09:30-09:45 | Everyone | Discussion about previous day activities
-|| 09:45-10:00 | TBD | Presentation: Sequence partitioning
+|| 09:45-10:00 | Erik garrison | Presentation: Sequence partitioning
 || 10:00-10:30 | Everyone | Practical: Reference-guided partitioning
 || 10:30-11:00 | Everyone | Coffee break
 || 11:00-12:30 | Everyone | Practical: Reference-free partitioning
