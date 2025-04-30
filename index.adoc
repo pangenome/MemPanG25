@@ -232,12 +232,12 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 
 |Sunday, May 11, 2025 | 09:30-10:00  | Andrea or Erik | Presentation: Introduction to pangenomics
 || 10:00-10:30 | Everyone | Practical: Build your first pangenome graphs
-|| 10:30-11:00 | Everyone | Coffee break
+|| *10:30-11:00* | *Everyone* | *Coffee break*
 || 11:00-12:30 | Everyone | Practical: PGGB
 || *12:30-14:00* | *Everyone* | *Lunch (provided)*
 || 14:00-14:30 | Andrea Guarracino | Presentation: Understanding pangenomes
 || 14:30-15:30 | Everyone | Practical: ODGI commands
-|| 15:30-16:00 | Everyone | Coffee break
+|| *15:30-16:00* | *Everyone* | *Coffee break*
 || 16:00-16:45 | Everyone | Practical:  ODGI commands
 || 16:55-17:00 | Everyone | Q&A, Day 1 Survey
 |===
@@ -248,12 +248,12 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 |Monday, May 12, 2025 | 09:30-09:45 | Everyone | Discussion about previous day activities
 || 09:45-10:00 | Erik garrison | Presentation: Sequence partitioning
 || 10:00-10:30 | Everyone | Practical: Reference-guided partitioning
-|| 10:30-11:00 | Everyone | Coffee break
+|| *10:30-11:00* | *Everyone* | *Coffee break*
 || 11:00-12:30 | Everyone | Practical: Reference-free partitioning
 || *12:30-14:00* | *Everyone* | *Lunch (provided)*
 || 14:00-14:30 | Andrea Guarracino | Presentation: Implicit pangenomics and pangenome genotyping
 || 14:30-16:00 | Everyone | Practical: Implicit pangenome graphs
-|| 16:00-16:30 | Everyone | Coffee break
+|| *16:00-16:30* | *Everyone* | *Coffee break*
 || 16:00-16:45 | Everyone | Practical: Pangenome-based genotyping
 || 16:55-17:00 | Everyone | Q&A, Day 2 Survey
 || 17:00-17:05 | TBD | Closure
@@ -271,18 +271,18 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 
 || 09:25 - 09:30 | Conference Opening | TBD
 
-|link:https://TBD.github.io/[TBD TBD] | 09:30 - 10:00 | TBD | TBD
-|| 10:00 - 10:30 | TBD | TBD
-|| 10:30 - 11:00 | Coffee break |
+|link:https://andreaguarracino.github.io/[Andrea Guarracino] | 09:30 - 10:00 | Visualize Whole Genome Multiple Sequence Alignments in NCBI’s New Multiple Comparative Genome Viewer (MCGV) | Sanjida Rangwala
+|| 10:00 - 10:30 | PangyPlot: An Interactive Graph Viewer Designed for Reference Pangenomes | Scott Mastromatteo
+|| 10:30 - 11:00 | Novel Chromosomal Rearrangements and Their Role in Speciation in Primates | Brooklynn Scott
+|| *11:00 - 11:30* | *Coffee break* | *Coffee*
 
-|link:https://TBD[TBD TBD] | 11:00 - 11:30 | TBD | TBD
-|| 11:30 - 12:00 | TBD | TBD
-|| 12:00 - 12:30 | TBD| TBD
-|| *12:30 - 14:00* | *Lunch* |
+|link:https://TBD[TBD TBD] | 11:30 - 12:00 | Pangenome graph resolves the dynamic evolution of the plant immune system | Gautam Shirsekar
+|| 12:00 - 12:30 | Diverse graph-based approaches for complex collections of plant genomes | Avril Harder
+|| 12:30 - 13:00 | Biorepository and Integrative Genomics (BIG) | Vincenza Colonna
+|| *13:00 - 14:00* | *Lunch (provided)* | *Food*
 
-|link:https://github.com/TBD[TBD TBD] | 14:00 - 14:30 | TBD | TBD
-|| 14:30 - 15:00 | TBD | TBD
-
+|link:https://github.com/TBD[TBD TBD] | 14:00 - 14:30 | TBD | Christina Boucher
+|| 14:30 - 15:00 | Disentangling reticulate evolution in Mediterranean Wall Lizards with a super pangenome | Natalia Zajac
 || 15:00 - 15:05 | Conference Closing | TBD
 |===
 
