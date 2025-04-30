@@ -269,7 +269,7 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 |===
 |Chair | Time | Talk | Speaker
 
-|| 09:20 - 09:30 | Conference Opening | TBD
+|| 09:25 - 09:30 | Conference Opening | TBD
 
 |link:https://TBD.github.io/[TBD TBD] | 09:30 - 10:00 | TBD | TBD
 || 10:00 - 10:30 | TBD | TBD
@@ -283,7 +283,7 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 |link:https://github.com/TBD[TBD TBD] | 14:00 - 14:30 | TBD | TBD
 || 14:30 - 15:00 | TBD | TBD
 
-|| 15:00 - 15:10 | Conference Closing | TBD
+|| 15:00 - 15:05 | Conference Closing | TBD
 |===
 
 === Biohackathon
