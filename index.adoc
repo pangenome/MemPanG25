@@ -272,7 +272,7 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 || 10:30 - 11:00 | Novel Chromosomal Rearrangements and Their Role in Speciation in Primates | Brooklynn Scott
 || *11:00 - 11:30* | *Coffee break* | *Coffee*
 
-| Jan-Niklas Schmelzle | 11:30 - 12:00 | Pangenome graph resolves the dynamic evolution of the plant immune system | Gautam Shirsekar
+| link:https://scholar.google.com/citations?user=m_vTR7YAAAAJ&hl=en/[Jan-Niklas Schmelzle] | 11:30 - 12:00 | Pangenome graph resolves the dynamic evolution of the plant immune system | Gautam Shirsekar
 || 12:00 - 12:30 | Diverse graph-based approaches for complex collections of plant genomes | Avril Harder
 || 12:30 - 13:00 | Biorepository and Integrative Genomics (BIG) | Vincenza Colonna
 || *13:00 - 14:00* | *Lunch (provided)* | *Food*
