@@ -274,7 +274,7 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 
 | link:https://scholar.google.com/citations?user=m_vTR7YAAAAJ&hl=en/[Jan-Niklas Schmelzle] | 11:30 - 12:00 | Pangenome graph resolves the dynamic evolution of the plant immune system | Gautam Shirsekar
 || 12:00 - 12:30 | Diverse graph-based approaches for complex collections of plant genomes | Avril Harder
-|| 12:30 - 13:00 | Biorepository and Integrative Genomics (BIG) | Vincenza Colonna
+|| 12:30 - 13:00 | Integrating genetic ancestry, environmental exposure and health equity | Vincenza Colonna
 || *13:00 - 14:00* | *Lunch (provided)* | *Food*
 
 |link:https://github.com/TBD[TBD TBD] | 14:00 - 14:30 | TBD | Christina Boucher
