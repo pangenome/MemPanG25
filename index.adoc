@@ -185,10 +185,6 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/Flavia95[GitHub
 
 ////
 
-=== Conference Invited speakers
-
-TBD
-
 ////
 
 - link:https://scholar.google.com/citations?user=C0AkpcEAAAAJ&hl=en[Mohab Helmy]
