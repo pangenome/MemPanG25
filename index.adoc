@@ -265,7 +265,7 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 |===
 |Chair | Time | Talk | Speaker
 
-|| 09:25 - 09:30 | Conference Opening | TBD
+|| 09:25 - 09:30 | Conference Opening | link:https://www.uthsc.edu/faculty/profile/?netid=rwilli10/[Robert Williams]
 
 |link:https://andreaguarracino.github.io/[Andrea Guarracino] | 09:30 - 10:00 | Visualize Whole Genome Multiple Sequence Alignments in NCBI’s New Multiple Comparative Genome Viewer (MCGV) | Sanjida Rangwala
 || 10:00 - 10:30 | PangyPlot: An Interactive Graph Viewer Designed for Reference Pangenomes | Scott Mastromatteo
