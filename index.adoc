@@ -277,7 +277,7 @@ University of Tennessee Health Science Center, Department of Genetics, Genomics 
 || 12:30 - 13:00 | Integrating genetic ancestry, environmental exposure and health equity | Vincenza Colonna
 || *13:00 - 14:00* | *Lunch (provided)* | *Food*
 
-|link:https://www.linkedin.com/in/shelbysolomondarnell/?originalSubdomain=ke[Shelby Solomon Darnell] | 14:00 - 14:30 | TBD | Christina Boucher
+|link:https://www.linkedin.com/in/shelbysolomondarnell/?originalSubdomain=ke[Shelby Solomon Darnell] | 14:00 - 14:30 | Efficient Grammar Compression via RLZ-based RePair | Rahul Varki
 || 14:30 - 15:00 | Disentangling reticulate evolution in Mediterranean Wall Lizards with a super pangenome | Natalia Zajac
 || 15:00 - 15:05 | Conference Closing | Vincenza Colonna
 |===
